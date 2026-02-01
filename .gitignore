@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project Specific
+# Data
+data/raw/*
+data/processed/*
+data/dpo/*
+data/vectordb/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/dpo/.gitkeep
+!data/vectordb/.gitkeep
+
+# Models (Weights)
+models/*
+!models/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Configs containing secrets
+configs/api_config.yaml
+.env
+
+# Reports (if they contain large binary data or sensitive info)
+# reports/*

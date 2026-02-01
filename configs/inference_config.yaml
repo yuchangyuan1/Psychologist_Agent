@@ -1,0 +1,74 @@
+# Inference Configuration for Psychologist Agent
+# Local GGUF model settings
+
+model:
+  # Path to the GGUF model file
+  model_path: "models/psychologist-8b-q4_k_m.gguf"
+
+  # Context window size (tokens)
+  n_ctx: 4096
+
+  # Number of layers to offload to GPU (-1 = all)
+  n_gpu_layers: -1
+
+  # Batch size for prompt processing
+  n_batch: 512
+
+  # Number of threads (null = auto-detect)
+  n_threads: null
+
+  # Enable verbose output
+  verbose: false
+
+  # Memory mapping settings
+  use_mmap: true
+  use_mlock: false
+
+generation:
+  # Maximum tokens to generate
+  max_tokens: 512
+
+  # Sampling temperature (0.0 = deterministic, higher = more random)
+  temperature: 0.7
+
+  # Top-p (nucleus) sampling
+  top_p: 0.9
+
+  # Top-k sampling
+  top_k: 40
+
+  # Repetition penalty (1.0 = no penalty)
+  repeat_penalty: 1.1
+
+  # Presence penalty
+  presence_penalty: 0.0
+
+  # Frequency penalty
+  frequency_penalty: 0.0
+
+  # Stop sequences
+  stop:
+    - "<|user|>"
+    - "<|system|>"
+    - "\n\n\n"
+
+server:
+  # Server host
+  host: "0.0.0.0"
+
+  # Server port
+  port: 8080
+
+  # Number of workers
+  workers: 1
+
+  # Request timeout (seconds)
+  timeout: 120
+
+  # Maximum concurrent requests
+  max_concurrent_requests: 4
+
+  # CORS settings
+  enable_cors: true
+  cors_origins:
+    - "*"

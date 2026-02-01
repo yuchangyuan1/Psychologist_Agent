@@ -1,0 +1,132 @@
+{
+  "high_risk_patterns": {
+    "self_harm": [
+      "I want to kill myself",
+      "I want to die",
+      "I'm going to end it all",
+      "I don't want to live anymore",
+      "I'm thinking about suicide",
+      "I have a plan to hurt myself",
+      "I'm going to hurt myself",
+      "I want to cut myself",
+      "I've been cutting myself",
+      "I'm going to take all my pills",
+      "I want to overdose",
+      "I'm planning to end my life",
+      "life is not worth living",
+      "everyone would be better off without me",
+      "I can't take it anymore, I'm done",
+      "I've written my goodbye letter",
+      "I'm giving away my things because I won't need them",
+      "I've decided to kill myself",
+      "I'm going to jump off",
+      "I want to hang myself"
+    ],
+    "harm_to_others": [
+      "I want to kill someone",
+      "I want to hurt someone",
+      "I'm going to kill my",
+      "I'm planning to hurt",
+      "I want to murder",
+      "I have thoughts of harming others",
+      "I'm going to attack",
+      "I want revenge and I'm going to hurt them",
+      "I'm going to bring a weapon",
+      "I want to make them pay with violence"
+    ],
+    "active_crisis": [
+      "I'm about to do it right now",
+      "I'm holding the knife right now",
+      "I have the pills in my hand",
+      "I'm on the ledge",
+      "I'm at the bridge",
+      "I'm about to pull the trigger",
+      "this is my last conversation",
+      "goodbye, this is the end",
+      "I'm doing it tonight"
+    ],
+    "abuse_disclosure": [
+      "someone is hurting me right now",
+      "I'm being abused",
+      "my parent beats me",
+      "I'm being sexually abused",
+      "someone is touching me inappropriately",
+      "I'm afraid for my life at home",
+      "my partner hits me",
+      "I can't escape the abuse"
+    ]
+  },
+  "moderate_risk_patterns": {
+    "passive_suicidal_ideation": [
+      "I wish I didn't exist",
+      "I wish I could disappear",
+      "I sometimes think about not being here",
+      "I don't see a point in living",
+      "I feel like giving up",
+      "I've thought about suicide before",
+      "sometimes I wonder if ending it would be easier",
+      "I feel hopeless about the future"
+    ],
+    "self_harm_history": [
+      "I used to cut myself",
+      "I have scars from cutting",
+      "I've tried to hurt myself before",
+      "I've attempted suicide in the past",
+      "I was hospitalized for suicide attempt",
+      "I've overdosed before"
+    ],
+    "severe_depression": [
+      "I can't get out of bed anymore",
+      "I haven't eaten in days",
+      "I can't stop crying",
+      "I feel completely numb",
+      "I've lost interest in everything",
+      "I feel empty inside",
+      "nothing matters anymore"
+    ],
+    "substance_abuse_crisis": [
+      "I can't stop using",
+      "I'm drunk and thinking about suicide",
+      "I'm high and feeling dangerous",
+      "I need drugs to function",
+      "I'm going through withdrawal"
+    ]
+  },
+  "low_risk_patterns": {
+    "general_distress": [
+      "I'm feeling really down",
+      "I'm so stressed",
+      "I'm anxious about",
+      "I can't sleep",
+      "I'm having a hard time",
+      "I'm feeling overwhelmed",
+      "I'm worried about",
+      "I'm scared",
+      "I feel lonely"
+    ],
+    "relationship_issues": [
+      "my partner and I are having problems",
+      "I had a fight with my friend",
+      "my family doesn't understand me",
+      "I feel disconnected from everyone",
+      "I'm going through a breakup"
+    ],
+    "work_school_stress": [
+      "I'm stressed about work",
+      "I'm failing my classes",
+      "I can't handle the pressure",
+      "my boss is giving me a hard time",
+      "I might lose my job"
+    ]
+  },
+  "semantic_similarity_threshold": {
+    "high_risk": 0.85,
+    "moderate_risk": 0.80,
+    "low_risk": 0.75
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-01-31",
+    "description": "Risk pattern database for mental health safety gateway"
+  }
+}

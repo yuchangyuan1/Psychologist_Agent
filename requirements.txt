@@ -1,0 +1,55 @@
+# Core ML/DL
+torch>=2.0.0
+transformers>=4.36.0
+accelerate>=0.25.0
+bitsandbytes>=0.41.0
+
+# Fine-tuning
+trl>=0.7.0
+peft>=0.7.0
+datasets>=2.14.0
+
+# Inference
+vllm>=0.2.0; sys_platform != 'win32'
+
+# RAG & Vector Store
+langchain>=0.1.0
+langchain-community>=0.0.10
+chromadb>=0.4.0
+faiss-cpu>=1.7.4
+
+# Embeddings
+sentence-transformers>=2.2.0
+
+# API & Web
+fastapi>=0.104.0
+uvicorn>=0.24.0
+httpx>=0.25.0
+pydantic>=2.5.0
+
+# PII Detection
+presidio-analyzer>=2.2.0
+presidio-anonymizer>=2.2.0
+spacy>=3.7.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+tenacity>=8.2.0
+numpy>=1.24.0
+
+# Logging & Monitoring
+loguru>=0.7.0
+prometheus-client>=0.19.0
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-cov>=4.1.0
+
+# PDF Processing & OCR
+pymupdf>=1.23.0
+easyocr>=1.7.0
+
+# Demo UI
+gradio>=4.0.0

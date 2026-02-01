@@ -60,3 +60,6 @@ configs/api_config.yaml
 
 # Reports (if they contain large binary data or sensitive info)
 # reports/*
+
+plan.md
+CLAUDE.md

@@ -19,8 +19,8 @@
 1.  **Pipeline 1: Offline Training (离线训练)**
     *   数据清洗与准备 (Counsel Chat Dataset)。
     *   偏好数据集构建 (使用 Deepseek-V3 作为 Judge)。
-    *   DPO 微调与 QLoRA 适配。
-    *   模型量化 (GGUF 4-bit)。
+    *   DPO 微调与 QLoRA 适配 (**Unsloth 加速**)。
+    *   模型量化 (GGUF 4-bit, Unsloth 内置导出)。
 
 2.  **Pipeline 2: Online Inference (在线推理)**
     *   **安全网关**: 实时检测高风险输入。
@@ -35,11 +35,12 @@
 |------|----------|
 | **基础模型** | Llama-3.1-8B-Instruct |
 | **微调方法** | DPO + QLoRA (4-bit quantization) |
+| **训练加速** | [Unsloth](https://github.com/unslothai/unsloth) (2-3x 加速, 50% 显存节省) |
 | **云端推理** | Deepseek-V3 API |
 | **向量数据库** | FAISS / ChromaDB |
 | **Embedding** | BAAI/bge-small-en-v1.5 |
 | **RAG 框架** | LangChain |
-| **训练框架** | transformers + trl + peft |
+| **训练框架** | Unsloth + trl (DPOTrainer) |
 | **推理框架** | llama.cpp (GGUF) + llama-cpp-python |
 | **开发语言** | Python 3.10+ |
 
@@ -70,7 +71,10 @@ psychologist-agent/
 │   ├── session/                # 会话管理
 │   ├── utils/                  # 工具函数 (LLM Factory)
 │   └── main.py                 # 主入口
-├── scripts/                    # 数据处理与训练脚本
+├── scripts/                    # 数据处理与评判脚本
+├── notebooks/                  # Colab Notebooks (Unsloth)
+│   ├── generate_baseline_unsloth.ipynb  # Baseline 生成
+│   └── train_dpo.ipynb                  # DPO 训练
 ├── tests/                      # 单元与集成测试
 ├── demo/                       # 演示应用 (Gradio/Streamlit)
 ├── logs/                       # 运行日志
@@ -106,7 +110,7 @@ psychologist-agent/
     pip install -r requirements.txt
     ```
 
-4.  **[重要]** 安装 `llama-cpp-python` (GPU 版)：
+4.  安装 `llama-cpp-python` (GPU 版)：
     为了启用 GPU 加速，请按照您的 CUDA 版本安装对应的预编译包。例如 (CUDA 12.1)：
     ```bash
     pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cu121
@@ -139,9 +143,10 @@ python src/main.py
 ```
 
 ### 6.3 数据处理与训练 (开发人员)
-*   **处理 PDF**: `python scripts/process_who_pdf.py`
-*   **生成 DPO 数据**: `python scripts/generate_baseline_responses.py` -> `scripts/deepseek_judge.py`
-*   **训练模型**: `python scripts/train_dpo.py`
+*   **数据准备**: `python scripts/data_preparation.py`
+*   **Baseline 生成**: 在 Colab 运行 `notebooks/generate_baseline_unsloth.ipynb` (Unsloth)
+*   **Judge 评判**: `python scripts/deepseek_judge.py`
+*   **DPO 训练**: 在 Colab 运行 `notebooks/train_dpo.ipynb` (Unsloth)
 
 ## 7. 免责声明 (Disclaimer)
 
@@ -151,6 +156,4 @@ python src/main.py
 *   如果您或您认识的人正处于紧急危机中（如自杀、自伤或伤害他人），请**立即**拨打当地急救电话或联系专业危机干预机构（如 988 或 110/120）。
 *   开发者不对使用本系统产生的任何后果负责。
 
-## 8. License
 
-[MIT License](LICENSE) (或其他适用于本项目的许可证)

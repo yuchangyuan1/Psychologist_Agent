@@ -92,8 +92,8 @@ psychologist-agent/
 
 1.  克隆仓库：
     ```bash
-    git clone https://github.com/yuchangyuan1/6895_project_Agent
-    cd 6895_project_Agent
+    git clone https://github.com/yuchangyuan1/Psychologist_Agent
+    cd Psychologist_Agent
     ```
 
 2.  创建并激活虚拟环境：

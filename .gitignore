@@ -57,9 +57,3 @@ logs/*
 # Configs containing secrets
 configs/api_config.yaml
 .env
-
-# Reports (if they contain large binary data or sensitive info)
-# reports/*
-
-plan.md
-CLAUDE.md

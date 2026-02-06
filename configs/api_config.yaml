@@ -1,0 +1,37 @@
+# API Configuration for Psychologist Agent
+# IMPORTANT: This file should be in .gitignore - do not commit API keys
+
+# Deepseek API Configuration
+deepseek:
+  # API key should be set via environment variable DEEPSEEK_API_KEY
+  # api_key: "sk-your-api-key-here"  # DO NOT COMMIT THIS
+  base_url: "https://api.deepseek.com/v1"
+  model: "deepseek-chat"
+
+  # Request settings
+  timeout: 30  # seconds
+  max_retries: 3
+  retry_delay: 1.0  # seconds
+
+  # Generation parameters
+  temperature: 0.7
+  max_tokens: 1000
+  top_p: 0.9
+
+# Rate limiting
+rate_limit:
+  requests_per_minute: 60
+  tokens_per_minute: 100000
+
+# Audit logging
+audit:
+  enabled: true
+  log_dir: "logs/audit"
+  retention_days: 30
+  log_to_console: false
+
+# Safety settings
+safety:
+  enable_cloud_analysis: true
+  enable_risk_audit: true
+  auto_escalate_critical: true

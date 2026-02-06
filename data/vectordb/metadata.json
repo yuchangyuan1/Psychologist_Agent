@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-02-03T20:06:14.305802",
+  "index_file": "faiss_index.index",
+  "documents_file": "documents.json",
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_dimension": 384,
+  "chunks_count": 179,
+  "documents_count": 3,
+  "sources": [
+    "cbt:cbt_techniques.md",
+    "who_guideline:who_preventing_suicide.md",
+    "dbt:dbt_skills.md"
+  ],
+  "chunk_config": {
+    "chunk_size": 500,
+    "chunk_overlap": 50
+  }
+}

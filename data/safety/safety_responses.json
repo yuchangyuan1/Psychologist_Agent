@@ -1,0 +1,94 @@
+{
+  "crisis_responses": {
+    "immediate_danger": {
+      "message": "I'm deeply concerned about your safety right now. This sounds like an emergency. Please call 988 (Suicide & Crisis Lifeline) immediately, or go to your nearest emergency room. If you're in immediate danger, please call 911. You don't have to face this alone - trained crisis counselors are available 24/7.",
+      "resources": [
+        {
+          "name": "988 Suicide & Crisis Lifeline",
+          "phone": "988",
+          "description": "24/7 crisis support"
+        },
+        {
+          "name": "Crisis Text Line",
+          "text": "HOME to 741741",
+          "description": "Text-based crisis support"
+        },
+        {
+          "name": "Emergency Services",
+          "phone": "911",
+          "description": "For immediate danger"
+        }
+      ],
+      "action": "ESCALATE_IMMEDIATELY"
+    },
+    "self_harm_intent": {
+      "message": "I hear that you're in a lot of pain right now, and I'm concerned about your safety. What you're feeling is real, but hurting yourself isn't the answer. Please reach out to the 988 Suicide & Crisis Lifeline by calling or texting 988. They have trained counselors available 24/7 who can help.",
+      "resources": [
+        {
+          "name": "988 Suicide & Crisis Lifeline",
+          "phone": "988",
+          "description": "24/7 crisis support"
+        },
+        {
+          "name": "Crisis Text Line",
+          "text": "HOME to 741741",
+          "description": "Text-based crisis support"
+        }
+      ],
+      "action": "PROVIDE_CRISIS_RESOURCES"
+    },
+    "harm_to_others": {
+      "message": "I'm concerned about what you've shared. If you're having thoughts of hurting someone, please reach out to a mental health professional or call 988 right away. It's important to talk to someone who can help you work through these feelings safely.",
+      "resources": [
+        {
+          "name": "988 Suicide & Crisis Lifeline",
+          "phone": "988",
+          "description": "24/7 mental health crisis support"
+        }
+      ],
+      "action": "PROVIDE_CRISIS_RESOURCES"
+    },
+    "abuse_disclosure": {
+      "message": "Thank you for trusting me with this. What you're describing sounds very serious, and you deserve to be safe. Please consider reaching out to the National Domestic Violence Hotline or local authorities who can help protect you.",
+      "resources": [
+        {
+          "name": "National Domestic Violence Hotline",
+          "phone": "1-800-799-7233",
+          "description": "24/7 support for domestic violence"
+        },
+        {
+          "name": "Childhelp National Child Abuse Hotline",
+          "phone": "1-800-422-4453",
+          "description": "24/7 support for child abuse"
+        },
+        {
+          "name": "RAINN",
+          "phone": "1-800-656-4673",
+          "description": "Sexual assault support"
+        }
+      ],
+      "action": "PROVIDE_SPECIALIZED_RESOURCES"
+    }
+  },
+  "supportive_responses": {
+    "moderate_risk": {
+      "prefix": "I hear that you're going through a really difficult time. Your feelings are valid, and it takes courage to share them.",
+      "suffix": "Would you like to talk more about what's been happening? I'm here to listen, and if at any point you feel like you need more support, please know that crisis resources like 988 are always available."
+    },
+    "low_risk": {
+      "prefix": "Thank you for sharing that with me. It sounds like you're dealing with a lot right now.",
+      "suffix": "I'm here to help you work through these feelings. What would be most helpful to talk about?"
+    }
+  },
+  "follow_up_prompts": {
+    "safety_check": "Can I ask - are you having any thoughts of hurting yourself or ending your life?",
+    "support_system": "Do you have someone you trust that you can reach out to right now?",
+    "immediate_safety": "Are you in a safe place right now?",
+    "professional_help": "Have you considered speaking with a mental health professional about this?"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-01-31",
+    "description": "Crisis response templates for mental health safety gateway"
+  }
+}

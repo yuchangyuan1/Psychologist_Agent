@@ -1,0 +1,73 @@
+{
+  "crisis_templates": {
+    "immediate_danger": {
+      "priority": 1,
+      "message": "I'm deeply concerned about your safety right now. What you're describing sounds like a crisis that needs immediate support.\n\nPlease reach out to one of these resources right now:\n\n[Phone] **988 Suicide & Crisis Lifeline**: Call or text 988\n[Text] **Crisis Text Line**: Text HOME to 741741\n[Emergency] **Emergency**: Call 911 if you're in immediate danger\n\nYou don't have to face this alone. Trained counselors are available 24/7 and want to help.\n\nAre you in a safe place right now?",
+      "follow_up": "I'm here with you. While we talk, please consider reaching out to 988 - they can provide immediate support.",
+      "requires_escalation": true
+    },
+    "suicidal_ideation": {
+      "priority": 2,
+      "message": "I hear that you're experiencing a lot of pain right now, and I'm concerned about your safety. What you're feeling is real, and it takes courage to share this.\n\nPlease know that you don't have to go through this alone. The 988 Suicide & Crisis Lifeline has trained counselors available 24/7 who understand what you're going through.\n\n[Phone] **Call or text 988** - available 24/7\n[Text] **Text HOME to 741741** for text-based support\n\nCan you tell me more about what you're experiencing right now?",
+      "follow_up": "Thank you for sharing that with me. Your life matters, and there are people who want to help.",
+      "requires_escalation": true
+    },
+    "self_harm": {
+      "priority": 2,
+      "message": "I hear that you're in a lot of pain right now. Self-harm can feel like a way to cope, but there are safer ways to manage these intense feelings.\n\nIf you're having urges to hurt yourself, please reach out to:\n\n[Phone] **988 Suicide & Crisis Lifeline**: Call or text 988\n[Text] **Crisis Text Line**: Text HOME to 741741\n\nSome things that might help right now:\n- Hold ice cubes in your hands\n- Take a cold shower\n- Do intense exercise\n- Write down your feelings\n\nWould you like to talk about what's behind these feelings?",
+      "follow_up": "I'm glad you're still here talking with me. Let's work through this together.",
+      "requires_escalation": true
+    },
+    "harm_to_others": {
+      "priority": 1,
+      "message": "I hear that you're having some intense thoughts right now. It's important to get support before acting on these feelings.\n\nPlease reach out for help:\n\n[Phone] **988 Suicide & Crisis Lifeline**: Call or text 988\n\nIf you're in immediate crisis or someone is in danger, please call 911.\n\nCan we talk about what's causing these thoughts?",
+      "follow_up": "I appreciate you being honest with me. Getting help is the right thing to do.",
+      "requires_escalation": true
+    },
+    "abuse_disclosure": {
+      "priority": 2,
+      "message": "Thank you for trusting me with this. What you're describing is abuse, and it's not your fault. You deserve to be safe.\n\nThere are people who can help:\n\n[Phone] **National Domestic Violence Hotline**: 1-800-799-7233\n[Text] **Text START to 88788**\n[Phone] **RAINN**: 1-800-656-4673 (sexual assault)\n[Phone] **Childhelp**: 1-800-422-4453 (child abuse)\n\nAre you in a safe place right now?",
+      "follow_up": "Your safety is the priority. These organizations have trained advocates who can help you create a safety plan.",
+      "requires_escalation": true
+    },
+    "substance_crisis": {
+      "priority": 3,
+      "message": "It sounds like you're going through a really difficult time with substance use. You don't have to face this alone.\n\nResources that can help:\n\n[Phone] **SAMHSA National Helpline**: 1-800-662-4357 (24/7, free, confidential)\n[Phone] **988 Suicide & Crisis Lifeline**: Call or text 988\n\nIf you're experiencing a medical emergency (overdose, withdrawal), please call 911.\n\nWould you like to talk about what's been happening?",
+      "follow_up": "Recovery is possible. Taking this step to reach out shows real strength.",
+      "requires_escalation": false
+    },
+    "panic_attack": {
+      "priority": 4,
+      "message": "It sounds like you might be having a panic attack. This is scary, but panic attacks aren't dangerous and they will pass.\n\nLet's try some grounding together:\n\n**Breathe slowly**: Inhale for 4 counts, hold for 4, exhale for 4\n\n**5-4-3-2-1 Grounding**:\n- Name 5 things you can see\n- Name 4 things you can touch\n- Name 3 things you can hear\n- Name 2 things you can smell\n- Name 1 thing you can taste\n\nI'm here with you. How are you feeling right now?",
+      "follow_up": "You're doing great. Panic attacks usually peak within 10 minutes and then start to fade.",
+      "requires_escalation": false
+    },
+    "severe_distress": {
+      "priority": 4,
+      "message": "I can hear that you're really struggling right now. Your feelings are valid, and it's okay to ask for help.\n\nIf things feel overwhelming, remember that support is available:\n\n[Phone] **988 Suicide & Crisis Lifeline**: Call or text 988 anytime\n[Text] **Crisis Text Line**: Text HOME to 741741\n\nI'm here to listen. Would you like to tell me more about what's going on?",
+      "follow_up": "Thank you for sharing. It takes courage to open up about difficult feelings.",
+      "requires_escalation": false
+    }
+  },
+  "validation_phrases": [
+    "I hear you, and what you're feeling is valid.",
+    "Thank you for trusting me with this.",
+    "It takes real courage to share what you're going through.",
+    "Your feelings make sense given what you're experiencing.",
+    "I'm here with you, and you're not alone in this.",
+    "What you're going through sounds incredibly difficult.",
+    "It's okay to feel this way. These are normal responses to difficult situations."
+  ],
+  "safety_check_questions": [
+    "Are you in a safe place right now?",
+    "Do you have access to anything you could use to hurt yourself?",
+    "Is there someone you trust who you can reach out to?",
+    "Have you eaten or slept recently?",
+    "Would you be willing to talk to a crisis counselor?"
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2025-01-31",
+    "note": "These templates are designed to provide immediate support while encouraging professional help."
+  }
+}

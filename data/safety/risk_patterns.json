@@ -1,0 +1,343 @@
+{
+  "high_risk_patterns": {
+    "self_harm": [
+      "I want to kill myself",
+      "I want to die",
+      "I'm going to end it all",
+      "I don't want to live anymore",
+      "I'm thinking about suicide",
+      "I have a plan to hurt myself",
+      "I'm going to hurt myself",
+      "I want to cut myself",
+      "I've been cutting myself",
+      "I'm going to take all my pills",
+      "I want to overdose",
+      "I'm planning to end my life",
+      "life is not worth living",
+      "everyone would be better off without me",
+      "I can't take it anymore, I'm done",
+      "I've written my goodbye letter",
+      "I'm giving away my things because I won't need them",
+      "I've decided to kill myself",
+      "I'm going to jump off",
+      "I want to hang myself"
+    ],
+    "self_harm_indirect": [
+      "I just want the pain to stop",
+      "I can't do this anymore",
+      "What's the point of going on",
+      "I'm a burden to everyone",
+      "They'd be better off without me",
+      "I've been thinking about ending things",
+      "I don't see a way out",
+      "I'm tired of fighting",
+      "I wish I could just disappear forever",
+      "I don't belong here",
+      "I've made peace with what I need to do",
+      "I won't be around much longer",
+      "soon it won't matter anymore",
+      "I'm just so tired of everything",
+      "there's nothing left for me here"
+    ],
+    "self_harm_slang": [
+      "I want to kms",
+      "I'm gonna unalive myself",
+      "I want to catch the bus",
+      "I'm thinking about the rope",
+      "time to take the easy way out",
+      "gonna go swim with the fishes",
+      "thinking about permanent solution",
+      "I want to yeet myself",
+      "ready to check out",
+      "gonna make the final exit"
+    ],
+    "self_harm_chinese": [
+      "我想死",
+      "我不想活了",
+      "活着没意思",
+      "我想自杀",
+      "我想结束这一切",
+      "我想去死",
+      "活着太累了",
+      "我撑不下去了",
+      "我想一了百了",
+      "我想离开这个世界",
+      "我已经准备好了",
+      "我写好遗书了",
+      "我不想再坚持了",
+      "我想永远睡过去",
+      "没有人会想念我",
+      "我是大家的累赘",
+      "死了算了",
+      "我想跳下去",
+      "我想吃药睡过去",
+      "我想割腕"
+    ],
+    "harm_to_others": [
+      "I want to kill someone",
+      "I want to hurt someone",
+      "I'm going to kill my",
+      "I'm planning to hurt",
+      "I want to murder",
+      "I have thoughts of harming others",
+      "I'm going to attack",
+      "I want revenge and I'm going to hurt them",
+      "I'm going to bring a weapon",
+      "I want to make them pay with violence"
+    ],
+    "harm_to_others_chinese": [
+      "我想杀了他",
+      "我想伤害他们",
+      "我要报复",
+      "我想让他们付出代价",
+      "我要弄死他"
+    ],
+    "active_crisis": [
+      "I'm about to do it right now",
+      "I'm holding the knife right now",
+      "I have the pills in my hand",
+      "I'm on the ledge",
+      "I'm at the bridge",
+      "I'm about to pull the trigger",
+      "this is my last conversation",
+      "goodbye, this is the end",
+      "I'm doing it tonight",
+      "I'm at the train station waiting",
+      "I'm standing on the roof now"
+    ],
+    "active_crisis_chinese": [
+      "我现在就要做了",
+      "我已经站在天台上了",
+      "我手里拿着刀",
+      "这是我最后一次说话",
+      "再见了，这是结束"
+    ],
+    "abuse_disclosure": [
+      "someone is hurting me right now",
+      "I'm being abused",
+      "my parent beats me",
+      "I'm being sexually abused",
+      "someone is touching me inappropriately",
+      "I'm afraid for my life at home",
+      "my partner hits me",
+      "I can't escape the abuse"
+    ],
+    "abuse_disclosure_chinese": [
+      "有人在伤害我",
+      "我被虐待了",
+      "我爸妈打我",
+      "有人性侵我",
+      "我不敢回家"
+    ],
+    "eating_disorder_crisis": [
+      "I haven't eaten anything in five days",
+      "I'm purging every meal",
+      "I passed out from not eating",
+      "I can't keep any food down",
+      "I'm so weak I can barely stand",
+      "my heart keeps racing from purging",
+      "I think I'm dying from not eating"
+    ],
+    "self_suffocation": [
+      "I'm going to suffocate myself",
+      "I'm thinking about using a bag",
+      "I want to stop breathing",
+      "I'm going to choke myself",
+      "planning to use the belt around my neck"
+    ]
+  },
+  "moderate_risk_patterns": {
+    "passive_suicidal_ideation": [
+      "I wish I didn't exist",
+      "I wish I could disappear",
+      "I sometimes think about not being here",
+      "I don't see a point in living",
+      "I feel like giving up",
+      "I've thought about suicide before",
+      "sometimes I wonder if ending it would be easier",
+      "I feel hopeless about the future",
+      "I wouldn't mind if I didn't wake up tomorrow",
+      "I don't care if I live or die"
+    ],
+    "passive_ideation_chinese": [
+      "我不想存在",
+      "我想消失",
+      "活着好累",
+      "我看不到希望",
+      "我想放弃",
+      "我不在乎活着还是死",
+      "如果明天醒不来就好了"
+    ],
+    "self_harm_history": [
+      "I used to cut myself",
+      "I have scars from cutting",
+      "I've tried to hurt myself before",
+      "I've attempted suicide in the past",
+      "I was hospitalized for suicide attempt",
+      "I've overdosed before"
+    ],
+    "severe_depression": [
+      "I can't get out of bed anymore",
+      "I haven't eaten in days",
+      "I can't stop crying",
+      "I feel completely numb",
+      "I've lost interest in everything",
+      "I feel empty inside",
+      "nothing matters anymore",
+      "I haven't showered in weeks",
+      "I can't remember the last time I felt anything"
+    ],
+    "severe_depression_chinese": [
+      "我起不来床",
+      "我好几天没吃东西了",
+      "我一直在哭",
+      "我什么都感觉不到",
+      "我对一切都失去兴趣了",
+      "我感觉很空虚"
+    ],
+    "substance_abuse_crisis": [
+      "I can't stop using",
+      "I'm drunk and thinking about suicide",
+      "I'm high and feeling dangerous",
+      "I need drugs to function",
+      "I'm going through withdrawal",
+      "I've been using to numb the pain",
+      "I mixed alcohol with my pills"
+    ],
+    "isolation_shutdown": [
+      "I haven't talked to anyone in weeks",
+      "I've cut off everyone in my life",
+      "I'm completely alone and don't want to be found",
+      "I've isolated myself from everyone",
+      "no one knows where I am",
+      "I've disconnected from everyone",
+      "I don't want anyone to reach me anymore"
+    ],
+    "isolation_chinese": [
+      "我好几周没和人说话了",
+      "我把所有人都推开了",
+      "我完全孤独一人",
+      "没有人知道我在哪"
+    ]
+  },
+  "low_risk_patterns": {
+    "general_distress": [
+      "I'm feeling really down",
+      "I'm so stressed",
+      "I'm anxious about",
+      "I can't sleep",
+      "I'm having a hard time",
+      "I'm feeling overwhelmed",
+      "I'm worried about",
+      "I'm scared",
+      "I feel lonely",
+      "I'm struggling lately",
+      "everything feels too much"
+    ],
+    "general_distress_chinese": [
+      "我很难过",
+      "我压力很大",
+      "我很焦虑",
+      "我睡不着",
+      "我很担心",
+      "我很害怕",
+      "我感到孤独"
+    ],
+    "relationship_issues": [
+      "my partner and I are having problems",
+      "I had a fight with my friend",
+      "my family doesn't understand me",
+      "I feel disconnected from everyone",
+      "I'm going through a breakup",
+      "no one understands what I'm going through",
+      "I feel like I don't fit in"
+    ],
+    "relationship_chinese": [
+      "我和伴侣吵架了",
+      "我和朋友闹翻了",
+      "家人不理解我",
+      "我正在分手"
+    ],
+    "work_school_stress": [
+      "I'm stressed about work",
+      "I'm failing my classes",
+      "I can't handle the pressure",
+      "my boss is giving me a hard time",
+      "I might lose my job",
+      "I'm burnt out",
+      "school is overwhelming me"
+    ],
+    "work_stress_chinese": [
+      "工作压力太大了",
+      "我考试不及格了",
+      "我可能要被开除了",
+      "我太累了"
+    ]
+  },
+  "semantic_similarity_threshold": {
+    "high_risk": 0.85,
+    "moderate_risk": 0.80,
+    "low_risk": 0.75
+  },
+  "metadata": {
+    "version": "2.0.0",
+    "last_updated": "2026-02-03",
+    "description": "Risk pattern database for mental health safety gateway",
+    "total_patterns": 167,
+    "chinese_patterns": 52,
+    "categories": {
+      "high_risk": [
+        "self_harm",
+        "self_harm_indirect",
+        "self_harm_slang",
+        "self_harm_chinese",
+        "harm_to_others",
+        "harm_to_others_chinese",
+        "active_crisis",
+        "active_crisis_chinese",
+        "abuse_disclosure",
+        "abuse_disclosure_chinese",
+        "eating_disorder_crisis",
+        "self_suffocation"
+      ],
+      "moderate_risk": [
+        "passive_suicidal_ideation",
+        "passive_ideation_chinese",
+        "self_harm_history",
+        "severe_depression",
+        "severe_depression_chinese",
+        "substance_abuse_crisis",
+        "isolation_shutdown",
+        "isolation_chinese"
+      ],
+      "low_risk": [
+        "general_distress",
+        "general_distress_chinese",
+        "relationship_issues",
+        "relationship_chinese",
+        "work_school_stress",
+        "work_stress_chinese"
+      ]
+    },
+    "changelog": [
+      {
+        "version": "2.0.0",
+        "date": "2026-02-03",
+        "changes": [
+          "Added indirect/euphemistic self-harm expressions",
+          "Added internet slang patterns (kms, unalive, etc.)",
+          "Added comprehensive Chinese language patterns (52 patterns)",
+          "Added eating_disorder_crisis category",
+          "Added self_suffocation category",
+          "Added isolation_shutdown category",
+          "Expanded total patterns from 93 to 167"
+        ]
+      },
+      {
+        "version": "1.0.0",
+        "date": "2025-01-31",
+        "changes": ["Initial release with 93 patterns"]
+      }
+    ]
+  }
+}

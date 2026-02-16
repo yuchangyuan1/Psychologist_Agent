@@ -1,0 +1,2922 @@
+[
+  {
+    "content": "Cognitive Behavioral Therapy (CBT) is an evidence-based psychotherapy that focuses on identifying and changing negative thought patterns and behaviors. It is highly effective for treating anxiety, depression, and other mental health conditions.",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Overview",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Overview"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Overview_0"
+  },
+  {
+    "content": "The CBT model is based on the interconnection between:\n- **Thoughts**: Our interpretations of situations\n- **Feelings**: Emotional responses to thoughts\n- **Behaviors**: Actions we take based on thoughts and feelings\n\nChanging one element affects the others, creating opportunities for intervention.",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "1. Cognitive Triangle",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "1. Cognitive Triangle"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_1. Cognitive Triangle_0"
+  },
+  {
+    "content": "Common thinking errors that contribute to emotional distress:",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "2. Cognitive Distortions",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_2. Cognitive Distortions_0"
+  },
+  {
+    "content": "Seeing things in black-and-white categories. If performance falls short of perfect, you see yourself as a total failure.\n*Example*: \"If I don't get an A, I'm a complete failure.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "All-or-Nothing Thinking",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "All-or-Nothing Thinking"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_All-or-Nothing Thinking_0"
+  },
+  {
+    "content": "Expecting the worst possible outcome in any situation.\n*Example*: \"If I fail this test, my life is over.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Catastrophizing",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Catastrophizing"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Catastrophizing_0"
+  },
+  {
+    "content": "Assuming you know what others are thinking without evidence.\n*Example*: \"They're all judging me right now.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Mind Reading",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Mind Reading"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Mind Reading_0"
+  },
+  {
+    "content": "Predicting negative outcomes without realistic basis.\n*Example*: \"I know the interview will go terribly.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Fortune Telling",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Fortune Telling"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Fortune Telling_0"
+  },
+  {
+    "content": "Believing that your emotions reflect reality.\n*Example*: \"I feel stupid, so I must be stupid.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Emotional Reasoning",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Emotional Reasoning"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Emotional Reasoning_0"
+  },
+  {
+    "content": "Using rigid rules about how you or others should behave.\n*Example*: \"I should never make mistakes.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Should Statements",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Should Statements"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Should Statements_0"
+  },
+  {
+    "content": "Blaming yourself for things outside your control.\n*Example*: \"The team lost because of me.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Personalization",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Personalization"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Personalization_0"
+  },
+  {
+    "content": "Drawing broad conclusions from single events.\n*Example*: \"I failed once, so I'll always fail.\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Overgeneralization",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Core Principles",
+        "2. Cognitive Distortions",
+        "Overgeneralization"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Overgeneralization_0"
+  },
+  {
+    "content": "A structured way to identify and challenge negative thoughts:\n1. **Situation**: What happened?\n2. **Automatic Thought**: What went through your mind?\n3. **Emotion**: What did you feel? (Rate intensity 0-100)\n4. **Evidence For**: Facts supporting the thought\n5. **Evidence Against**: Facts contradicting the thought\n6. **Balanced Thought**: A more realistic perspective\n7. **Re-rate Emotion**: How do you feel now?",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "1. Thought Records",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Key CBT Techniques",
+        "1. Thought Records"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_1. Thought Records_0"
+  },
+  {
+    "content": "For depression and low motivation:\n- Schedule pleasurable activities\n- Start with small, achievable goals\n- Track mood before and after activities\n- Gradually increase activity level",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "2. Behavioral Activation",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Key CBT Techniques",
+        "2. Behavioral Activation"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_2. Behavioral Activation_0"
+  },
+  {
+    "content": "For anxiety and phobias:\n- Create a fear hierarchy (0-100 scale)\n- Start with least anxiety-provoking situations\n- Gradually work up the hierarchy\n- Stay in situation until anxiety decreases\n- Practice regularly",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "3. Exposure Therapy",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Key CBT Techniques",
+        "3. Exposure Therapy"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_3. Exposure Therapy_0"
+  },
+  {
+    "content": "Structured approach to addressing life problems:\n1. Define the problem clearly\n2. Brainstorm solutions (without judgment)\n3. Evaluate pros and cons of each\n4. Choose and implement a solution\n5. Evaluate the outcome",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "4. Problem-Solving Therapy",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Key CBT Techniques",
+        "4. Problem-Solving Therapy"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_4. Problem-Solving Therapy_0"
+  },
+  {
+    "content": "Physical approaches to reduce anxiety:\n- **Deep Breathing**: Slow, diaphragmatic breathing\n- **Progressive Muscle Relaxation**: Tensing and releasing muscle groups\n- **Grounding**: Using senses to connect to present moment",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "5. Relaxation Techniques",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Key CBT Techniques",
+        "5. Relaxation Techniques"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_5. Relaxation Techniques_0"
+  },
+  {
+    "content": "Process of challenging unhelpful thoughts:\n1. Identify the negative thought\n2. Examine the evidence\n3. Consider alternative explanations\n4. Develop a balanced perspective\n5. Practice the new thought",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "6. Cognitive Restructuring",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Key CBT Techniques",
+        "6. Cognitive Restructuring"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_6. Cognitive Restructuring_0"
+  },
+  {
+    "content": "- Help identify catastrophic predictions\n- Explore evidence for and against fears\n- Practice grounding techniques\n- Encourage gradual exposure to fears",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "For Anxiety",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Applying CBT in Conversation",
+        "For Anxiety"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_For Anxiety_0"
+  },
+  {
+    "content": "- Challenge negative self-talk\n- Encourage behavioral activation\n- Help recognize cognitive distortions\n- Focus on small, achievable goals",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "For Depression",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Applying CBT in Conversation",
+        "For Depression"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_For Depression_0"
+  },
+  {
+    "content": "- Identify negative core beliefs\n- Challenge overgeneralization\n- Encourage self-compassion\n- Recognize accomplishments",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "For Low Self-Esteem",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Applying CBT in Conversation",
+        "For Low Self-Esteem"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_For Low Self-Esteem_0"
+  },
+  {
+    "content": "- \"What thought went through your mind when that happened?\"\n- \"What's the evidence for and against that thought?\"\n- \"How would you advise a friend in this situation?\"\n- \"What's the worst that could happen? How would you cope?\"\n- \"Is there another way to look at this situation?\"\n- \"What small step could you take toward your goal?\"",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Questions to Ask",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Questions to Ask"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Questions to Ask_0"
+  },
+  {
+    "content": "- Beck, J. S. (2011). Cognitive Behavior Therapy: Basics and Beyond\n- Burns, D. D. (1999). Feeling Good: The New Mood Therapy\n- Greenberger, D., & Padesky, C. A. (2015). Mind Over Mood",
+    "metadata": {
+      "source": "cbt_techniques.md",
+      "source_type": "cbt",
+      "title": "Resources",
+      "heading_path": [
+        "Cognitive Behavioral Therapy (CBT) Techniques",
+        "Resources"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "cbt_techniques.md_Resources_0"
+  },
+  {
+    "content": "Dialectical Behavior Therapy (DBT) was developed by Marsha Linehan to treat borderline personality disorder but is now used for various conditions including depression, anxiety, PTSD, and emotional dysregulation. DBT combines cognitive-behavioral techniques with mindfulness practices.",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Overview",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Overview"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Overview_0"
+  },
+  {
+    "content": "The foundation of all DBT skills - being fully present in the moment.",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "1. Mindfulness Skills",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "1. Mindfulness Skills"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_1. Mindfulness Skills_0"
+  },
+  {
+    "content": "- **Reasonable Mind**: Logical, fact-based thinking\n- **Emotion Mind**: Feeling-driven, impulsive reactions\n- **Wise Mind**: Integration of both - intuitive knowing that feels right",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Core Mindfulness States",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "1. Mindfulness Skills",
+        "Core Mindfulness States"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Core Mindfulness States_0"
+  },
+  {
+    "content": "- **Observe**: Notice experience without words\n- **Describe**: Put words on experience\n- **Participate**: Throw yourself into the moment fully",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "\"What\" Skills",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "1. Mindfulness Skills",
+        "\"What\" Skills"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_\"What\" Skills_0"
+  },
+  {
+    "content": "- **Non-judgmentally**: See, don't evaluate. Focus on facts.\n- **One-mindfully**: Do one thing at a time\n- **Effectively**: Do what works for the situation",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "\"How\" Skills",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "1. Mindfulness Skills",
+        "\"How\" Skills"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_\"How\" Skills_0"
+  },
+  {
+    "content": "For crisis survival without making things worse.",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "2. Distress Tolerance Skills",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "2. Distress Tolerance Skills"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_2. Distress Tolerance Skills_0"
+  },
+  {
+    "content": "- **T**emperature: Cold water on face activates dive reflex\n- **I**ntense Exercise: Brief, intense physical activity\n- **P**aced Breathing: Slow, deep breathing\n- **P**rogressive Muscle Relaxation: Tension release",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "TIPP Skills (Change Body Chemistry)",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "2. Distress Tolerance Skills",
+        "TIPP Skills (Change Body Chemistry)"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_TIPP Skills (Change Body Chemistry)_0"
+  },
+  {
+    "content": "- **A**ctivities: Engage in hobbies or tasks\n- **C**ontributing: Help others\n- **C**omparisons: Compare to your own past or others' struggles\n- **E**motions: Create different emotions (music, movies)\n- **P**ushing Away: Mentally set aside the problem temporarily\n- **T**houghts: Replace with other thoughts (counting, puzzles)\n- **S**ensations: Use strong sensations (ice, spicy food)",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "ACCEPTS Skills (Distraction)",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "2. Distress Tolerance Skills",
+        "ACCEPTS Skills (Distraction)"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_ACCEPTS Skills (Distraction)_0"
+  },
+  {
+    "content": "- **I**magery: Visualize a peaceful place\n- **M**eaning: Find purpose in the pain\n- **P**rayer: Connect to something larger\n- **R**elaxation: Muscle relaxation, bath\n- **O**ne Thing: Focus on just this moment\n- **V**acation: Brief mental break\n- **E**ncouragement: Self-talk and cheerleading",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "IMPROVE the Moment",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "2. Distress Tolerance Skills",
+        "IMPROVE the Moment"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_IMPROVE the Moment_0"
+  },
+  {
+    "content": "- Completely accepting reality as it is\n- Not approval, just acknowledgment of facts\n- Reduces suffering added by fighting reality\n- \"It is what it is, and I can cope with it\"",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Radical Acceptance",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "2. Distress Tolerance Skills",
+        "Radical Acceptance"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Radical Acceptance_0"
+  },
+  {
+    "content": "For understanding and managing emotions.",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "3. Emotion Regulation Skills",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_3. Emotion Regulation Skills_0"
+  },
+  {
+    "content": "- All emotions have a function\n- Emotions are neither good nor bad\n- Emotions can be changed",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Understanding Emotions",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills",
+        "Understanding Emotions"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Understanding Emotions_0"
+  },
+  {
+    "content": "- **P**hysical Illness: Treat physical problems\n- **L**ow mood medications: Take as prescribed\n- **E**ating: Balanced meals\n- **A**void mood-altering substances\n- **S**leep: Regular sleep schedule\n- **E**xercise: Regular physical activity",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Reducing Vulnerability (PLEASE)",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills",
+        "Reducing Vulnerability (PLEASE)"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Reducing Vulnerability (PLEASE)_0"
+  },
+  {
+    "content": "- **Short-term**: Do one pleasant thing daily\n- **Long-term**: Work toward life worth living goals\n- Be mindful of positive experiences",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Build Positive Experiences",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills",
+        "Build Positive Experiences"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Build Positive Experiences_0"
+  },
+  {
+    "content": "- Do something that makes you feel competent and in control\n- Plan for success, not failure\n- Gradually increase difficulty",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Build Mastery",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills",
+        "Build Mastery"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Build Mastery_0"
+  },
+  {
+    "content": "When emotion doesn't fit the facts:\n- **Fear** → Approach\n- **Anger** → Be gentle, validate the other person\n- **Sadness** → Get active, reach out\n- **Shame** → Share with supportive others\n- **Guilt** → Repair, if appropriate",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Opposite Action",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills",
+        "Opposite Action"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Opposite Action_0"
+  },
+  {
+    "content": "Before acting on emotion:\n1. What is the emotion?\n2. What triggered it?\n3. What are my interpretations?\n4. What are the actual facts?\n5. Does the emotion fit the facts?",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Check the Facts",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "3. Emotion Regulation Skills",
+        "Check the Facts"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Check the Facts_0"
+  },
+  {
+    "content": "For maintaining relationships while meeting needs.",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "4. Interpersonal Effectiveness Skills",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "4. Interpersonal Effectiveness Skills"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_4. Interpersonal Effectiveness Skills_0"
+  },
+  {
+    "content": "- **D**escribe: State the facts objectively\n- **E**xpress: Share feelings using \"I\" statements\n- **A**ssert: Ask clearly for what you want\n- **R**einforce: Explain positive outcomes\n- **M**indful: Stay focused on goal\n- **A**ppear Confident: Eye contact, steady voice\n- **N**egotiate: Be willing to give to get",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "DEAR MAN (Getting What You Want)",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "4. Interpersonal Effectiveness Skills",
+        "DEAR MAN (Getting What You Want)"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_DEAR MAN (Getting What You Want)_0"
+  },
+  {
+    "content": "- **G**entle: No attacks, threats, or judgments\n- **I**nterested: Listen and show interest\n- **V**alidate: Acknowledge the other's perspective\n- **E**asy Manner: Use humor, be light",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "GIVE (Maintaining Relationships)",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "4. Interpersonal Effectiveness Skills",
+        "GIVE (Maintaining Relationships)"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_GIVE (Maintaining Relationships)_0"
+  },
+  {
+    "content": "- **F**air: Be fair to yourself and others\n- **A**pologies: Don't over-apologize\n- **S**tick to Values: Don't compromise your integrity\n- **T**ruthful: Avoid lies and exaggeration",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "FAST (Maintaining Self-Respect)",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "The Four DBT Skill Modules",
+        "4. Interpersonal Effectiveness Skills",
+        "FAST (Maintaining Self-Respect)"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_FAST (Maintaining Self-Respect)_0"
+  },
+  {
+    "content": "- Start with TIPP for immediate regulation\n- Validate their experience\n- Guide through distress tolerance skills\n- Explore facts vs interpretations",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "For Emotional Overwhelm",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Applying DBT in Conversation",
+        "For Emotional Overwhelm"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_For Emotional Overwhelm_0"
+  },
+  {
+    "content": "- Teach DEAR MAN for assertiveness\n- Encourage validation of both perspectives\n- Help identify interpersonal goals\n- Practice GIVE and FAST skills",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "For Relationship Conflicts",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Applying DBT in Conversation",
+        "For Relationship Conflicts"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_For Relationship Conflicts_0"
+  },
+  {
+    "content": "- Explore Wise Mind access\n- Build mastery activities\n- Create pleasant events schedule\n- Work on values clarification",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "For Chronic Emptiness",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Applying DBT in Conversation",
+        "For Chronic Emptiness"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_For Chronic Emptiness_0"
+  },
+  {
+    "content": "- Use TIPP skills immediately\n- Explore function of urge\n- Find alternative behaviors\n- Practice radical acceptance",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "For Self-Harm Urges",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Applying DBT in Conversation",
+        "For Self-Harm Urges"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_For Self-Harm Urges_0"
+  },
+  {
+    "content": "1. **Reflect**: \"It sounds like you're feeling...\"\n2. **Mind-read**: \"I imagine you might be feeling...\"\n3. **Validate with history**: \"Given what happened, it makes sense that...\"\n4. **Normalize**: \"Many people would feel that way\"\n5. **Radical genuineness**: \"I can see how much pain you're in\"",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Key Validation Responses",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Key Validation Responses"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Key Validation Responses_0"
+  },
+  {
+    "content": "- \"What emotion are you experiencing right now?\"\n- \"What do you notice in your body?\"\n- \"What would Wise Mind say about this?\"\n- \"What are the facts of the situation?\"\n- \"What skill might help you through this moment?\"\n- \"What's one small thing you can do right now?\"",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Questions to Ask",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Questions to Ask"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Questions to Ask_0"
+  },
+  {
+    "content": "- Linehan, M. M. (2014). DBT Skills Training Manual\n- McKay, M., Wood, J. C., & Brantley, J. (2019). The Dialectical Behavior Therapy Skills Workbook\n- Chapman, A. L. (2006). DBT: A Practical Guide",
+    "metadata": {
+      "source": "dbt_skills.md",
+      "source_type": "dbt",
+      "title": "Resources",
+      "heading_path": [
+        "Dialectical Behavior Therapy (DBT) Skills",
+        "Resources"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "dbt_skills.md_Resources_0"
+  },
+  {
+    "content": "> This document is extracted from the WHO publication 'Preventing Suicide: A Resource for Counsellors' for use in crisis intervention knowledge retrieval.\n\n---",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "WHO Preventing Suicide: A Resource for Counsellors",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_WHO Preventing Suicide: A Resource for Counsellors_0"
+  },
+  {
+    "content": "World Health Organization Management of Mental and Brain Disorders Geneva 2006\n\nThis document is one of a series of resources addressed to specific social and professional groups particularly relevant to the prevention of suicide _ It has been prepared as part of SUPRE; the WHO worldwide initiative for the prevention of suicide_ Keywords: suicide",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RESOURCE FOR COUNSELLORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "RESOURCE FOR COUNSELLORS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_RESOURCE FOR COUNSELLORS_0"
+  },
+  {
+    "content": "counsellors_ WHO Library Cataloguing-in-Publication Data a resource for counsellors_ (Preventing suicide a resource series 7) \"This document is one of a series of resources addressed to specific social and professional groups particularly relevant to the prevention of suicide It has been prepared as part of SUPRE, the WHO worldwide initiative for the prevention of suicide\n1. Suicide",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "resources",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "RESOURCE FOR COUNSELLORS",
+        "resources"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_resources_0"
+  },
+  {
+    "content": "2. Suicide, Attempted",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "prevention and control.",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "RESOURCE FOR COUNSELLORS",
+        "prevention and control."
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_prevention and control._0"
+  },
+  {
+    "content": "3. Counseling_\nI.World Health Organization. II.Series: Preventing suicide a resource series",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "prevention and control:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "RESOURCE FOR COUNSELLORS",
+        "prevention and control:"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_prevention and control:_0"
+  },
+  {
+    "content": "(LCINLM classification: HV6545)",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ISBN 92 4 159431 4",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "ISBN 92 4 159431 4"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_ISBN 92 4 159431 4_0"
+  },
+  {
+    "content": "World Health Organization 2006 AIl rights reserved. Publications of the World Health Organization can be obtained from WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland (tel. +41 22 791 3264; fax: +41 22 791 4857; e-mail: bookorders@whoint) Requests for permission to reproduce or translate WHO publications whether for sale or for noncommercial distribution should be addressed to WHO Press, at the above address (fax: +41 22 791 4806; e-mail: permissions@who.int).",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ISBN 978 92 4 159431 8",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "ISBN 978 92 4 159431 8"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_ISBN 978 92 4 159431 8_0"
+  },
+  {
+    "content": "The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries_ Dotted lines on maps represent approximate border lines for which there may not yet be full agreement: The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or recommended by the World Health Organization in preference to others of a similar nature that are not mentioned.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ISBN 978 92 4 159431 8",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "ISBN 978 92 4 159431 8"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_ISBN 978 92 4 159431 8_1"
+  },
+  {
+    "content": "Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters_ AIl reasonable precautions have been taken by the World Health Organization to verify the information contained in this publication However, the published material is distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ISBN 978 92 4 159431 8",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "ISBN 978 92 4 159431 8"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_ISBN 978 92 4 159431 8_2"
+  },
+  {
+    "content": "In no event shall the World Health Organization be liable for damages arising from its use_ Printed in the United States of America being",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ISBN 978 92 4 159431 8",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "ISBN 978 92 4 159431 8"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_ISBN 978 92 4 159431 8_3"
+  },
+  {
+    "content": "Foreword iv The burden of suicide",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "CONTENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "CONTENTS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_CONTENTS_0"
+  },
+  {
+    "content": "Special populations and suicide Common myths about suicidal behaviours",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Risk factors and risk situations",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "CONTENTS",
+        "Risk factors and risk situations"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_Risk factors and risk situations_0"
+  },
+  {
+    "content": "Management of suicidal behaviours Counselling suicidal children and adolescents Cousellors coping with the suicide of a client Providing helpful information to the community Web links",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Assessment of suicidal behaviours.",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "CONTENTS",
+        "Assessment of suicidal behaviours."
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_Assessment of suicidal behaviours._0"
+  },
+  {
+    "content": "Page iv",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "References",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_References_0"
+  },
+  {
+    "content": "Suicide is a complex phenomenon that has attracted the attention of philosophers, theologians, physicians, sociologists and artists over the centuries; according to the French philosopher Albert Camus, in The Myth of Sisyphus, it is the only serious philosophical problem: As a serious public health problem it demands our attention, but its prevention and control, unfortunately, are no easy task: State-of-the- art research indicates that the prevention of suicide, while feasible, involves a whole series of activities, ranging from the provision of the best possible conditions for bringing up our children and youth, through the effective treatment of mental disorders, to the environmental control of risk factors.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FOREWORD",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_FOREWORD_0"
+  },
+  {
+    "content": "Appropriate dissemination of information and awareness- raising are essential elements in the success of suicide prevention programmes: In 1999 WHO launched SUPRE, its worldwide initiative for the",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FOREWORD",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_FOREWORD_1"
+  },
+  {
+    "content": "This booklet is one of a series of resources prepared as part of SUPRE and addressed to specific social and professional groups that are particularly relevant to the prevention of suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "prevention of suicide:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD",
+        "prevention of suicide:"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 3
+    },
+    "doc_id": "who_preventing_suicide.md_prevention of suicide:_0"
+  },
+  {
+    "content": "It represents a link in a long and diversified chain involving a wide range of people and groups, including health professionals, educators, social agencies, governments, legislators, social communicators, law enforcers, families and communities: We are particularly indebted to Dr Scott Hinkle, Clinical Training Coordinator; NBCC-International, Greensboro, USA who produced an earlier version of this booklet.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "prevention of suicide:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD",
+        "prevention of suicide:"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 3
+    },
+    "doc_id": "who_preventing_suicide.md_prevention of suicide:_1"
+  },
+  {
+    "content": "The text was subsequently reviewed by the following members of the WHO International Network for Suicide",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "prevention of suicide:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD",
+        "prevention of suicide:"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 3
+    },
+    "doc_id": "who_preventing_suicide.md_prevention of suicide:_2"
+  },
+  {
+    "content": "grateful:",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Prevention, to whom we are",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD",
+        "Prevention, to whom we are"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 3
+    },
+    "doc_id": "who_preventing_suicide.md_Prevention, to whom we are_0"
+  },
+  {
+    "content": "Page v Dr Annette Beautrais, Christchurch School of Medicine, Christchurch; New Zealand Professor Jean Pierre Soubrier, Chairman of the Section on Suicidology of the World Psychiatric Association, Paris, France Dr Lakshmi Vijayakumar, SNEHA, Chennai, India Professor Danuta Wasserman; Swedish National Centre for Suicide Research & Prevention of Mental III-Health and Department of Public Health, Stockholm, Sweden.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Prevention, to whom we are",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD",
+        "Prevention, to whom we are"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 3
+    },
+    "doc_id": "who_preventing_suicide.md_Prevention, to whom we are_1"
+  },
+  {
+    "content": "The resources are now being widely disseminated; in the hope that they will be translated and adapted to local conditions prerequisite for their effectiveness. Comments and requests for permission to translate and adapt them will be welcome. Dr J. M: Bertolote Coordinator; Management of Mental and Brain Disorders",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Prevention, to whom we are",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FOREWORD",
+        "Prevention, to whom we are"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 3
+    },
+    "doc_id": "who_preventing_suicide.md_Prevention, to whom we are_2"
+  },
+  {
+    "content": "More people commit suicide each year than die in all the world's combined conflicts. The assistance of counselling professionals in the prevention of suicide, on a world-wide scale, is critical and clearly needed: Suicide results from a complex interaction of biological, genetic, psychological, sociological, cultural, and environmental factors.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RESOURCE FOR COUNSELLORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_RESOURCE FOR COUNSELLORS_0"
+  },
+  {
+    "content": "Improved community detection, referral, and management of suicidal behaviour are important steps in suicide prevention: The critical challenge of such prevention is to identify people who are at risk and vulnerable; to understand the circumstances that influence their self-destructive behaviour; and to effectively structure interventions.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RESOURCE FOR COUNSELLORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_RESOURCE FOR COUNSELLORS_1"
+  },
+  {
+    "content": "Consequently, counsellors need to develop community-based initiatives for preventing as well as managing suicidal behaviour: The practice of professional counselling is defined as the application of mental health, psychological, or human development principles, through cognitive, affective, behavioural or systemic intervention strategies By using these strategies, professional counsellors address wellness, personal growth, and career development issues, as well as mental health pathology.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RESOURCE FOR COUNSELLORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_RESOURCE FOR COUNSELLORS_2"
+  },
+  {
+    "content": "Counsellors have graduate training and education and often work in schools, colleges and universities, career agencies, substance abuse facilities, and clinics and hospitals: Relatedly, the prevention of suicide involves a variety of broad activities including effective child rearing, family counselling, treatment of mental disorders, environmental control of risk factors, and community education: Effective community education, a vital and primary",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RESOURCE FOR COUNSELLORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_RESOURCE FOR COUNSELLORS_3"
+  },
+  {
+    "content": "intervention, includes an understanding of the causes of suicide as well as its prevention and treatment: Counsellors can assist individuals in better understanding the relationship between substance abuse and mood disorders, and suicidal thoughts and behaviours. Counsellors also can help with relapse prevention planning, building social support, and when necessary, making referrals to more intensive psychiatric and alcohol and drug",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RESOURCE FOR COUNSELLORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_RESOURCE FOR COUNSELLORS_4"
+  },
+  {
+    "content": "The need for a clear set of guidelines for counsellors that are practical, accessible, and informative in dealing with suicide crises is apparent; especially in developing countries:2 Unfortunately, comprehensive training in suicide management in mental health training programs rarely occurs: Client suicide is considered an 'occupational hazard\" in the counselling profession: It is estimated that about 25% of counsellors have had a client commit suicide4.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "treatment centres",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS",
+        "treatment centres"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_treatment centres_0"
+  },
+  {
+    "content": "Suicide can have a potentially negative effect on practicing counsellors as well as those in training: Counsellors having such an experience report feeling a loss of self- esteem, having intrusive thoughts and intensified dreams, and feeling both anger and guilt in response to their client's death: This brochure has been developed as an informational guide for counsellor education regarding suicide risk and prevention.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "treatment centres",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RESOURCE FOR COUNSELLORS",
+        "treatment centres"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_treatment centres_1"
+  },
+  {
+    "content": "It is estimated that approximately one million people committed suicide in 2000, placing suicide in the top ten causes of death in many countries in the world. Ten to 20 times as many people attempted suicide. But; the actual figures are assumed to be higher. Although suicide rates vary across demographic categories, they have increased",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "THE BURDEN OF SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "THE BURDEN OF SUICIDE"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_THE BURDEN OF SUICIDE_0"
+  },
+  {
+    "content": "approximately by 60% in the last 50 years. Reducing the loss of life due to suicide has become a critical international mental health goal. Counsellors can play a critical role in the prevention of suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "THE BURDEN OF SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "THE BURDEN OF SUICIDE"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_THE BURDEN OF SUICIDE_1"
+  },
+  {
+    "content": "5,6 Protectivve factors reduce the risk of suicide; they are considered insulators against suicide and include: Support from family, friends, and other significant relationships; Religious, cultural, and ethnic beliefs; Community involvement; A satisfying social Social integration, e.g: through employment; constructive use of leisure time; Access to mental health care and services: Although such protective factors do not negate the risk of suicide, they can counterbalance the extreme stress of life events.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "PROTECTIVE FACTORS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROTECTIVE FACTORS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_PROTECTIVE FACTORS_0"
+  },
+  {
+    "content": "Suicidal behaviours are more common under certain circumstances owing to cultural, genetic, psychosocial, and environmental factors. General risk factors include: Low socioeconomic status and educational level; loss of employment; Social stress; Problems with family functioning, social relationships, and support systems; Trauma, such as physical and sexual abuse; life;\n\nPersonal losses;",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "RISK FACTORS AND RISK SITUATIONS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_RISK FACTORS AND RISK SITUATIONS_0"
+  },
+  {
+    "content": "schizophrenia, and alcohol and substance abuse; Feelings of worthlessness or hopelessness; Sexual orientation issues (such as homosexuality); Idiosyncratic behaviours (such as cognitive style and personality constellation); Impaired judgement; lack of impulse control, and self-destructive behaviours; Poor coping skills; Physical illness and chronic pain: Exposure to suicide of other people; Access to means to complete self-harm; Destructive and violent events (such as war or catastrophic disasters).",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Mental disorders, such as depression, personality disorder,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "Mental disorders, such as depression, personality disorder,"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_Mental disorders, such as depression, personality disorder,_0"
+  },
+  {
+    "content": "It is estimated that as many as 90% of individuals who have ended their lives by committing suicide had a mental disorder, 60% of which were depressed at the time In fact; all types of mood disorders have been clearly linked to suicidal behaviour. Depression and its symptoms (e.g,, sadness, lethargy, anxiety, irritability, sleep and eating disturbances) should alert all counsellors to the potential risk of suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Mental disorders, such as depression, personality disorder,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "Mental disorders, such as depression, personality disorder,"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_Mental disorders, such as depression, personality disorder,_1"
+  },
+  {
+    "content": "Elevated risk for suicide also has been associated with schizophrenia; substance abuse disorders, personality disorders, anxiety disorders including PTSD, and diagnostic co-morbidity: Approximately 10-15% of individuals with schizophrenia complete suicide, which is consistently the most common cause of death among individuals experiencing psychosis.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Mental disorders, such as depression, personality disorder,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "Mental disorders, such as depression, personality disorder,"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_Mental disorders, such as depression, personality disorder,_2"
+  },
+  {
+    "content": "Increased personal insight into the mental disorder, fewer years in treatment; and severe depressive symptoms are associated with a heightened risk of suicide among individuals within the psychotic population. The effects of alcohol use in the presence of significant life challenges and stressors can lead to a constricted view of reality and potential self-harm. Alcoholism, particularly in the presence of",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Mental disorders, such as depression, personality disorder,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "Mental disorders, such as depression, personality disorder,"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_Mental disorders, such as depression, personality disorder,_3"
+  },
+  {
+    "content": "depression and personality disorder, also can increase the risk of suicide. In 90% of child and adolescent deaths by suicide, some form of",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Mental disorders, such as depression, personality disorder,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "Mental disorders, such as depression, personality disorder,"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_Mental disorders, such as depression, personality disorder,_4"
+  },
+  {
+    "content": "with the most common diagnoses being mood disorder, anxiety disorder; substance abuse, and disruptive behaviour disorder: Suicidal individuals often have greater environmental burdens than their non-suicidal peers including histories of abuse, family problems, cultural considerations, interpersonal relationship difficulties, and exposure to overwhelming or chronic stress. Coupled with depressive mood, these burdens increase the likelihood of suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "mental disorder has been identified as a root cause,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "mental disorder has been identified as a root cause,"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_mental disorder has been identified as a root cause,_0"
+  },
+  {
+    "content": "Actually, the additional feeling of hopelessness arising from the burdens of life is an even stronger predictor of suicidal risk than depression alone. Previous suicide attempts heighten the risk of suicide. Additionally, prominent risk factors include persistent ideation about harming oneself and resolved plans and preparations to carry out suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "mental disorder has been identified as a root cause,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "mental disorder has been identified as a root cause,"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_mental disorder has been identified as a root cause,_1"
+  },
+  {
+    "content": "Therefore, risk can be at its greatest when an individual has the means, opportunity, a specific plan to carry out the suicide, and the lack of a deterrent: Identifying risk factors associated with suicidal behaviour is critical to the counsellor's clinical decision-making: Knowledge of such risk factors can guide prevention as well as intervention by assisting counsellors in identifying those individuals at the greatest risk: Hence, risk-assessment training for counsellors is paramount to suicide reduction.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "mental disorder has been identified as a root cause,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "mental disorder has been identified as a root cause,"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_mental disorder has been identified as a root cause,_2"
+  },
+  {
+    "content": "Although there is no \"global style' of communicating suicidal intentions, warning signs for suicidal behaviour include lack of concern about personal welfare; changes in social patterns, decline in work productivity or school achievement; alterations in sleep and eating patterns; attempts to put personal matters in order or to make amends",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "mental disorder has been identified as a root cause,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "mental disorder has been identified as a root cause,"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_mental disorder has been identified as a root cause,_3"
+  },
+  {
+    "content": "with others; atypical interest in how others are feeling; preoccupation with themes of death and violence; sudden improvement in mood after a period of depression; and, sudden or increased promiscuity:",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "mental disorder has been identified as a root cause,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "RISK FACTORS AND RISK SITUATIONS",
+        "mental disorder has been identified as a root cause,"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 5
+    },
+    "doc_id": "who_preventing_suicide.md_mental disorder has been identified as a root cause,_4"
+  },
+  {
+    "content": "Children and adolescents Counsellors can play a vital role in the prevention of child and adolescent suicide. When a child or adolescent becomes suicidal, the is communicating difficulties in problem-solving, managing stress, and expressing emotions and feelings. In some cases, negative peer pressure might be behind self-destructive behaviour.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_0"
+  },
+  {
+    "content": "Suicidal behaviours among children and adolescents often involve complicated motivations including depressive mood, emotional, behavioural, and social problems, and substance abuse.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_1"
+  },
+  {
+    "content": "Other suicidal factors among include the loss of romantic relationships, inability to cope with academic challenges and other life stressors, and issues associated with poor problem-solving skills, low self-esteem, and struggles with sexual identity: Suicidal children often experience a disrupted and conflicted family life where family changes such as divorce can result in feelings of helplessness and loss of control.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_2"
+  },
+  {
+    "content": "Among adolescents, a family history of psychiatric illness, along with high levels of family dysfunction, rejection by the family, and childhood neglect and abuse increase the potential for suicide. Completed youth suicides have higher rates of familial psychiatric disturbance, less family support, past suicidal ideation or behaviour; disciplinary or legal problems, and loaded firearms in the home.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_3"
+  },
+  {
+    "content": "Suicidal ideation and attempted suicide appear more often in children and adolescents who have suffered abuse by peers and adults: youth youth",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_4"
+  },
+  {
+    "content": "An additional risk factor for adolescent suicide is the suicide of prominent figures or individuals personally known by the adolescent: In particular among young people, there also exists the phenomenon of cluster suicides_ A well-} publicized attempt or completed suicide can lead to self-injurious behaviour in a related peer group or similar community that mirrors the suicidal individual's lifestyle or personality attributes: There is some evidence to support the implementation of preventive measures when there is a child or adolescent suicide, particularly in school settings.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_5"
+  },
+  {
+    "content": "Among adolescents 16 years and older, alcohol and substance abuse significantly increase the risk of suicide during times of distress Mood and anxiety disorders, runaway behaviour, and a sense of hopelessness also increase the risk for suicide attempts. Adolescent suicide attempts are often associated with humiliating life experiences such as failure at school or work or interpersonal conflict with a romantic partner.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_6"
+  },
+  {
+    "content": "A diagnosed personality disorder is associated with 10 times as many suicides as those without this diagnosis; whereas as many as 80% of adolescents who kill themselves could be diagnosed with conduct disorder, PTSD, or violent and aggressive symptoms: The elderly",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "SPECIAL POPULATIONS AND SUICIDE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 8
+    },
+    "doc_id": "who_preventing_suicide.md_SPECIAL POPULATIONS AND SUICIDE_7"
+  },
+  {
+    "content": "associated with suicidal behaviour in late life. Among the elderly, a frequently asked question refers to the misuse of medications as a means for suicide However, the benefit from treating depression largely offsets any negative impact of antidepressant medication.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Depression is widely acknowledged as the principal factor",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE",
+        "Depression is widely acknowledged as the principal factor"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_Depression is widely acknowledged as the principal factor_0"
+  },
+  {
+    "content": "Suicides among elderly individuals can be reduced if counsellors are aware of suicidal messages Approximately 70% of elderly persons who commit suicide have been known to share their suicidal ideations with a family member or with others before their fatal act. Therefore, collateral interviews, which are always a vital tool, are imperative with this population when family members and friends can be questioned.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Depression is widely acknowledged as the principal factor",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "SPECIAL POPULATIONS AND SUICIDE",
+        "Depression is widely acknowledged as the principal factor"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_Depression is widely acknowledged as the principal factor_1"
+  },
+  {
+    "content": "There are numerous myths regarding suicidal behaviours. Some of the more common ones are: Myth 1: People who talk about suicide will not harm themselves since they just want attention. This is FALSE: A counsellor must take every precaution when confronted with an individual talking about suicidal ideation, intent; or plan. All threats of self-harm should be taken seriously: Myth 2: Suicide is always impulsive and happens without warning:",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COMMON MYTHS ABOUT SUICIDAL BEHAVIOURS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COMMON MYTHS ABOUT SUICIDAL BEHAVIOURS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_COMMON MYTHS ABOUT SUICIDAL BEHAVIOURS_0"
+  },
+  {
+    "content": "Death by one's own hand might appear to be impulsive, but suicide may be pondered for some time. Many suicidal individuals give some type of verbal or behavioural message about their ideations of intent to hurt themselves Myth 3: Suicidal individuals really want to die or are determined to kill themselves.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_0"
+  },
+  {
+    "content": "FALSE: Most people feeling suicidal will share their thoughts with at least one other person, or call a crisis telephone line or doctor; which is evidence of ambivalence, not commitment to oneself. Myth 4: When an individual shows signs of improvement or survives a suicide attempt; they are out of danger: FALSE.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_1"
+  },
+  {
+    "content": "Actually, one of the most dangerous times is immediately after the crisis, or when the person is in the hospital following an attempt: The week following discharge is one in which a person is particularly fragile and in danger of self-harm. Since one predictor of future behaviour is past behaviour; the suicidal person often continues to be at risk: Myth 5: Suicide is always hereditary. FALSE. Not every suicide can be linked to heredity and conclusive studies are limited.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_2"
+  },
+  {
+    "content": "Family history of suicide, however, is an important risk factor for suicidal behaviour; particularly in families where depression is common: killing",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_3"
+  },
+  {
+    "content": "Myth 6: Individuals who attempt or commit suicide always have a mental disorder. FALSE. Suicidal behaviours have been associated with depression, substance abuse, schizophrenia and other mental disorders, in addition to destructive and aggressive behaviours. However, this association should not be overestimated_ The relative proportion of these disorders varies in different places and there are cases where no mental disorder was apparent.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_4"
+  },
+  {
+    "content": "Myth Z: If a counsellor talks to a patient about suicide, the counsellor is giving the person the idea. FALSE. A counsellor clearly does not cause suicidal behaviour simply by asking if patients are considering harming themselves. Actually; validation of the individual's emotional state and the normalization of the stress-induced situation are necessary components in reducing suicidal ideation. Myth 8: Suicide only happens to \"those other kinds of people, not to uS_ FALSE.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_5"
+  },
+  {
+    "content": "Suicide happens to all types of people and is found in all kinds of social systems and families. Myth g: Once a person has tried to commit suicide, he or she will never try FALSE: In fact; suicide attempts are a critical predictor of suicide. Myth 10: Children do not commit suicide since they do not understand the finality of death and are cognitively incapable of engaging in a suicidal act.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_6"
+  },
+  {
+    "content": "FALSE: Although rare, children do commit suicide and any gesture; at any age, should be taken seriously: Given these misconceptions about suicide, some counsellors might feel anxious or unprepared to work with suicidal individuals and must develop effective counselling skills for dealing with this population.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_7"
+  },
+  {
+    "content": "Information, training; and experience in suicidal crisis intervention increases the competence of the counsellor: Training should include enhancing the ability to calmly tolerate the strong feelings of others, reducing counsellor defensiveness and passivity, and overcoming again.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_8"
+  },
+  {
+    "content": "unresolved grief issues. In addition, awareness of risk factors and understanding risk situations are critical counsellor activities:",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "FALSE",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "FALSE"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 10
+    },
+    "doc_id": "who_preventing_suicide.md_FALSE_9"
+  },
+  {
+    "content": "comprehensive assessment of suicidal behaviours is fundamental to effective counselling intervention and prevention activities The primary goal of suicide assessment is to provide information for prevention and counselling: Assessment subsequently guides clinical judgment; counselling intervention, prevention and postvention.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_ASSESSMENT OF SUICIDAL BEHAVIOURS_0"
+  },
+  {
+    "content": "All suicide assessments should include: review of relevant risk factors; history of suicidal behaviour; Unchangeable biological, psychosocial, mental, situational, or medical conditions; The extent of current suicidal symptoms including the degree of hopelessness; Precipitant stressors; Level of impulsivity and personal control; Other mitigating information;",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_ASSESSMENT OF SUICIDAL BEHAVIOURS_1"
+  },
+  {
+    "content": "Suicide assessment requires an evaluation of the behaviour and risk factors, the underlying diagnosis of mental disorders, and a determination of the risk for death: Once an assessment is completed, it is important to rate the overall suicide risk in terms of severity. The scale below; based on a 5-point continuum from nonexistent to extreme suicide risk, could serve as general guidance for such a rating:\n1. Nonexistent: Essentially, no risk of harm to self:\n2.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__0"
+  },
+  {
+    "content": "Mild: Suicidal ideation is limited, there are no resolved plans or\npreparations for harming oneself; and there are few known risk factors. Any",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__1"
+  },
+  {
+    "content": "The intent to commit suicide is not apparent; but suicidal ideation is present; the individual does not have a concrete plan and has not attempted suicide in the past:\n3. Moderate: Resolved plans and preparation are evident with noticeable\nsuicidal ideation, possible history of previous attempts, and at least two additional risk factors.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__2"
+  },
+  {
+    "content": "Or, more than one risk factor for suicide is present; suicidal ideation as well as intent are present; but a clear plan is denied; the individual is motivated to improve his or her current emotional and psychological state, if possible. 4.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__3"
+  },
+  {
+    "content": "Severe: Clearly resolved plans and preparation to inflict self-harm or\nthe person is known as a multiple attempter with two or more risk factors: Suicidal ideation and intent are verbalized along with a well-thought out plan and the means to carry it out: This individual demonstrates cognitivve inflexibility and hopelessness about the future and denies available social support; there have been previous suicide attempts. 5.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__4"
+  },
+  {
+    "content": "Extreme: A multiple attempter with several significant multiple risk\nfactors. Immediate attention and action is a must. Ultimately, the counsellor's responsibility is to make a judgment and locate a point on the suicide lethality scale that helps identify the individual's potential for fatal self-harm.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__5"
+  },
+  {
+    "content": "It is often best to make a false- positive than a false-negative error in judgment Assessment data also can be useful in comparing an individual's pre- and post-counselling level of functioning for intervention and prevention purposes.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Protective factors_",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Protective factors_"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_Protective factors__6"
+  },
+  {
+    "content": "information from formal evaluation procedures, and a gathering of valuable collateral data from third-parties. The reasons for living, or continuing with life, are important cognitive factors in suicidal assessment and should be incorporated into screening and treatment planning: Finally, suicide assessment needs to be multidimensional and done within the context of normal human development and gender differences,",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Assessment for suicide risk includes a clinical interview,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Assessment for suicide risk includes a clinical interview,"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_Assessment for suicide risk includes a clinical interview,_0"
+  },
+  {
+    "content": "family history, substance abuse, level of isolation, psychiatric diagnosis, level of helplessness/hopelessness, and demographic patterns. In general, adolescent and child assessment must minimally include: Clinical interview; Behavioural observations; Collateral information from parents, teachers, relatives, and friends;",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Assessment for suicide risk includes a clinical interview,",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Assessment for suicide risk includes a clinical interview,"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_Assessment for suicide risk includes a clinical interview,_1"
+  },
+  {
+    "content": "Assessment of ideation, plan, and intent and reasons for living; Availability and quality of family and peer support.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "Assessment of risk and situational factors;",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "ASSESSMENT OF SUICIDAL BEHAVIOURS",
+        "Assessment of risk and situational factors;"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_Assessment of risk and situational factors;_0"
+  },
+  {
+    "content": "Unfortunately, there are no agreed upon, set procedures for handling a suicidal or potentially suicidal individual. However, counselling services must be responsive to the needs of the suicidal individual: The identification, assessment; and treatment of suicidal individuals call for the consideration of many important variables. Suicidal individuals have a range of needs from information to counselling to medication Combinations of brief supportive counselling and medications to treat",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 1
+    },
+    "doc_id": "who_preventing_suicide.md_MANAGEMENT OF SUICIDAL BEHAVIOURS_0"
+  },
+  {
+    "content": "When a person is experiencing suicidal thoughts (ideation) it is important to initiate immediate management procedures. This will include an assessment (e.g:, level of ambivalence; impulsivity, rigidity, and means of lethality), enlisting support; varying levels of contracting and family involvement; as well as counselling: Management of the suicidal person also might include pharmacological or inpatient treatment.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_0"
+  },
+  {
+    "content": "Suicide crisis management should not be a solitary event: It is often essential that other health agencies be involved and in some cases",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_1"
+  },
+  {
+    "content": "even the authorities should be notified. Counsellors with large case loads will need to be particularly aware of their ability to effectively deal with a suicide crisis. In addition, knowledge of ethical codes and regional laws regarding the involvement of third parties is important. Collaboration between counsellors and health care professionals in the prevention of suicide is critical.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_2"
+  },
+  {
+    "content": "Counsellors, psychologists, social workers, psychiatric nurses, psychiatrists, and physicians need to work collaboratively and cooperatively in providing community information regarding the nature of suicide and in establishing linkages between service centres and mental health and medical treatment plans: During a suicidal crisis, it is important for the counsellor to: Be calm and supportive; Be non-judgmental; Encourage self-disclosure; Acknowledge suicide as a choice, but not \"normalize' suicide as a choice; Actively listen and positively reinforce self-care; the counselling process focused in the here and now; Avoid in-depth counselling until the crisis abates; Call upon others to help assess the potential for self-harm; Ask questions about lethality; Remove lethal means; Make effective crisis management decisions.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_3"
+  },
+  {
+    "content": "To elaborate on this last point; effective decision-making during a suicide crisis is a function of a predetermined plan for various types of individuals, risk factors, and levels of potential harm. Counsellors working with specific populations or settings can develop suicide management plans for their respective groups, situations, or contexts.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_4"
+  },
+  {
+    "content": "For example, counsellors managing an outpatient crisis with a child should have a clear management plan that will likely differ from a residential or inpatient intervention with an adult where emergency nursing staff or physicians Keep",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_5"
+  },
+  {
+    "content": "are immediately available. Clearly defined suicide management plans not only provide quality care, but also include referral sources and ensure that no one lost in the system of care. Although there is little evidence about the utility of contracts, many counsellors favour contracting with potentially suicidal individuals since a contract may have potential benefits.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_6"
+  },
+  {
+    "content": "However, if a suicide attempt occurs, all channels of communication between the counselling staff, health professionals, the family, and victim need to be open and efficient: Practicing suicide attempt response drills can increase the confidence of all counsellors dealing with a suicide crisis: It is critical that the counsellor establish a relationship with the potential suicidal individual that includes a degree of faith and trust in the counsellor: The potentially suicidal individual must feel free to share information and be confident that the counsellor is willing to handle the crisis.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_7"
+  },
+  {
+    "content": "Essentially, the counsellor needs to ensure the individual's safety while attempting to de-escalate the crisis: In suicide management; the counsellor must ask if the individual has intentions of harming or killing him- or herself.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_8"
+  },
+  {
+    "content": "For example, the counsellor might ask: 'Have you been thinking about hurting yourself?\" Do you think about ending your life?\" \"Have you been contemplating suicide?\" \"Have you ever thought about or are you thinking about hurting yourself now?' 'Have you been feeling so badly that you think about harming or hurting yourself?\" \"Have you made a plan of ending your life?\" \"Do you have a plan of how you are going to do it?\" Of course these questions have to be asked in a manner that is appropriate to the specific individual, in a specific socio-cultural setting: gets",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_9"
+  },
+  {
+    "content": "Individuals with mild risk of suicide generally require re- evaluations and monitoring over time for suicidal potential while keeping in mind that the mild category can become elevated to that of moderate risk or higher. Moderate risk individuals will require recurrent evaluation for hospitalization, the active involvement of support systems, twenty-four hour emergency availability, medication evaluation, and aftercare counselling contact as needed.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_10"
+  },
+  {
+    "content": "If the individual's risk rises to severe or extreme, restrictive interventions are typically unavoidable and may require an involuntary inpatient stay. It is often best if treatment is provided in the least restrictive environment that is safe and effective. Ensuring continuity of care as well as considering psychiatric disorders from the ICD or DSM can assist with treatment planning and the potential need for psychotropic medication evaluation.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_11"
+  },
+  {
+    "content": "During suicide management; it is important for the counsellor not to express personal moral, religious, or philosophical perspectives since these could contribute to a block in communication and alienate the suicidal individual.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_12"
+  },
+  {
+    "content": "Potential helpful resources, both personal and community, need to be processed with the individual: This can include family, friends, clergy, faith healers, and other sources of support: It also is important to not make promises regarding confidentiality about the individual's suicidal intentions: The risk of repeated suicide attempts is greatest during the first year following an attempt: Therefore, the counsellor needs to anticipate intensive follow-up and aftercare including case management; continued telephone contacts and support, and in some cases home visits.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 13,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_13"
+  },
+  {
+    "content": "As a result; counsellors need to address how often an individual will need to be contacted, which counsellors are available to provide aftercare, and for how long. Premature termination of counselling and inadequate response to treatment can have an unfavourable prognosis for eventual suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 14,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_14"
+  },
+  {
+    "content": "Counselling will need to be tailored to the needs of the individual and often includes cognitive-behavioural therapies, dialectic behaviour therapy, psychodynamic therapy, and family counselling: Helpful elements of the therapeutic process with suicidal individuals include promoting the resolution of intense emotions and confronting self- destructive behaviours, while simultaneously encouraging personal autonomy: Acknowledging and overcoming feelings of helplessness, hopelessness, and despair as well as developing self-awareness and constructing a positive personal identity also are critical to the counselling process with suicidal individuals.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 15,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_15"
+  },
+  {
+    "content": "Identifying the message the individual is attempting to communicate andlor what problem the individual is trying to solve through suicidal behaviour also is a common helpful intervention. Providing the suicidal individual the opportunity to vent can help diffuse the crisis situation. Counsellors should, however, be cautious about relying on verbal communication alone since the absence or denial of suicidal ideation can mask true suicidal intention.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 16,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_16"
+  },
+  {
+    "content": "Non-judgmental support; active listening, and asking relevant and probing questions can assist with identifying what communications the suicidal individual is attempting to make.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "depression and other behaviours are often indicated:",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "MANAGEMENT OF SUICIDAL BEHAVIOURS",
+        "depression and other behaviours are often indicated:"
+      ],
+      "chunk_index": 17,
+      "total_chunks": 18
+    },
+    "doc_id": "who_preventing_suicide.md_depression and other behaviours are often indicated:_17"
+  },
+  {
+    "content": "Counselling is appropriate for all children and adolescents with suicidal behaviours and should focus on cognitive behavioural treatment with an emphasis on coping skills.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_0"
+  },
+  {
+    "content": "Effective counselling goals might include a better understanding of self; identifying conflicting feelings, improving self-esteem, changing maladaptive behaviours, learning effective conflict-resolution skills, and interacting more effectively with peers: Students are likely to turn to a friend during the initial stages of suicidal ideation. Training students to identify peers at risk for such",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_1"
+  },
+  {
+    "content": "behaviour can assist with students receiving the help that need: Peer counselling programs have been found to increase student knowledge about suicidal risk factors, how to contact a telephone hotline or crisis centre, and how to refer a friend to a counsellor.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_2"
+  },
+  {
+    "content": "Students need a forum in which they can receive information, ask questions, and learn about how to help themselves and their friends with suicidal preoccupations Unfortunately, only about 25% of students will tell an adult if a friend is having suicidal ideations. However; carefully prepared classroom presentations by counsellors can help to increase this rate. Engaging parents and collaborating with other health agencies and schools also are effective prevention processes.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_3"
+  },
+  {
+    "content": "Parents of children in schools with suicide prevention programs should be involved in the school's efforts to educate, identify, and assist young people with suicidal intentions_ Teachers spend a lot of time with children and adolescents and also are generally informants of student mental health issues. Moreover, when properly trained, school personnel can identify suicidal risk factors among students.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_4"
+  },
+  {
+    "content": "When suicidal behaviour occurs in a school setting, it is important to contact parents, ensure that the student has received adequate assessment and support prior to returning to school, and upon return, the student is received in a positive manner: Often students who have been confronted with the suicide of another student need to talk about the event and try to understand what has happened.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_5"
+  },
+  {
+    "content": "Bereavement support group counselling at school can be an effective method for helping students cope with the loss of a fellow student or friend due to suicide_ This process can facilitate the reality of the loss, help with the adjustment to the school environment without the lost student; and set a positive course for continuing with life.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_6"
+  },
+  {
+    "content": "When children have a combination of feelings of loss, hurt; anger, and frustration, attention should focus on potential suicidal ideation and intention: Such counselling interventions should include follow-up or aftercare since some children might have difficulty for some time following the suicide of a friend or fellow student: they good",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 7,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_7"
+  },
+  {
+    "content": "Management of suicide among adolescents becomes more important in the presence of substance abuse, personality disorders, impulsivity, and stressed peer relationships. With more serious cases, the adolescent contemplating suicide should be watched at all times. If the family is unable to provide this level of supervision and the adolescent is out of control, the adolescent needs to be hospitalized so that adequate attention and care can be provided.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 8,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_8"
+  },
+  {
+    "content": "Unfortunately, hospitalization is not a guarantee; adolescents intent on hurting themselves might still find a way to accomplish this destructive goal.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 9,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_9"
+  },
+  {
+    "content": "After hospitalization; the child or adolescent needs aftercare by adequately trained health care professionals including counsellors Counselling at this time should focus on reducing morbid fantasies of death, rejection, alienation, loss, and punishment; as well as stabilizing the situation and considering a psychopharmacological evaluation.1,11 In terms of suicide prevention, primary, secondary, and tertiary levels of intervention are important considerations.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 10,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_10"
+  },
+  {
+    "content": "The primary level is concerned with groups of people who do not yet show signs of suicidal disturbance or where the disturbance is very limited: Prevention should focus on sustaining and enhancing role functioning within interpersonal and social contexts as well as significantly decrease emotional, physical, Education programs within the school can assist teachers in learning about identifying potentially suicidal students and train students to be aware of how can be helpful to their troubled peers: Community programmes that focus on positive mental health also are helpful in suicide prevention.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 11,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_11"
+  },
+  {
+    "content": "Although their effectiveness appears to be mixed, suicide crisis centres and hot lines are central to many communities' efforts to prevent suicide. they",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS"
+      ],
+      "chunk_index": 12,
+      "total_chunks": 13
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLING SUICIDAL CHILDREN AND ADOLESCENTS_12"
+  },
+  {
+    "content": "Suicidal behaviours are among the most frequent mental health crises encountered by counsellors. Talking with colleagues and supervisors, increased acceptance that suicide is a possible counselling outcome, conducting a 'psychological autopsy;\" and attending the funeral have been reported to be important strategies for counsellors dealing with a client's suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT_0"
+  },
+  {
+    "content": "Counsellors also need to be aware of their Own difficulties with the topic of death and suicide and not allow such difficulties to inhibit efforts to care for a suicidal individual: Death anxiety is central to a counsellors ability to work with suicidal individuals There is a relationship between the counsellor's attitudes and values concerning suicide and the associated effectiveness in working with suicidal individuals.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT_1"
+  },
+  {
+    "content": "If a suicide occurs, the involved counsellor will need debriefing including a reconstruction of events leading up to the suicide, identifying factors that lead up to the death, assessing the response of the mental health team, and drawing implications to improve future prevention efforts.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT_2"
+  },
+  {
+    "content": "Counsellors involved in a completed suicide might experience feelings ranging from anger and resentment to guilt;, sadness, and posttraumatic symptoms Peer support and even supportive counselling can be very beneficial at this point",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 4
+    },
+    "doc_id": "who_preventing_suicide.md_COUNSELLORS COPING WITH THE SUICIDE OF A CLIENT_3"
+  },
+  {
+    "content": "Counsellors can provide community education and awareness that can help reduce the incidence of suicide. For instance, it is important for counsellors to publicize the warning signs of suicidal behaviour: Educating people about suicide may help to make communities aware of the warning signs of suicide, dispel suicide myths, as well as offer hope to those that are potentially suicidal and in need of rethinking their options.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_PROVIDING HELPFUL INFORMATION TO THE COMMUNITY_0"
+  },
+  {
+    "content": "Community organisations, primary health care workers, and counsellors can be helpful in disseminating suicide information such as specific circumstances (e.g-, loss of jobs and subsequent family stability)",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_PROVIDING HELPFUL INFORMATION TO THE COMMUNITY_1"
+  },
+  {
+    "content": "Moreover, it is important for counsellors working in schools to assist with informing and educating teachers and parents about identifying students at risk for suicide. School counsellors must train students to detect suicidal behaviour and learn how to obtain help. For example, students involved in prevention programs need information and training in demonstrating empathy and active listening, as well as how to reach out to friends who may need help.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_0"
+  },
+  {
+    "content": "Also, information that helps students weather the emotional storm of a well-publicized suicide or attempt goes far in helping to prevent \"copy-cat' suicides. The US Centers for Disease Control have developed recommendations that have been widely used to reduce cluster suicides: It is important for counsellors to have a plan for dealing with the media in the event of a suicide.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_1"
+  },
+  {
+    "content": "This plan should include asking the media to not glorify, glamorize, or dramatize the death in order to prevent the possibility of contagion suicides. For specific information, counsellors should consult: Preventing Suicide: a resource for media professionals: Survivors' self-help groups are a constructive and empowering postvention method for people to use in helping themselves.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_2"
+  },
+  {
+    "content": "Such self- help groups organized by those who are left behind can provide useful information on the process; information about suicide, as well as the various roles of counselling professionals in helping survivors. Counsellors involved with survivors' groups can be of tremendous comfort to the friends and families affected by suicide. Survivors often vacillate between feelings of guilt; anger, and In such cases counsellors can provide an opportunity for survivors to process their feelings.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_3"
+  },
+  {
+    "content": "Many families have reported a need for counselling immediately following a suicide attempt: Such counselling helps families deal with the stress of the attempt and can clarify their role in attending to grief grief:",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_4"
+  },
+  {
+    "content": "the attempter or dealing with the loss of a friend or family member to suicide. Where relevant; counsellors also can help families and friends better understand the role of mental illness in suicidal behaviour as well as reduce the risk of contagion or imitative suicides.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_5"
+  },
+  {
+    "content": "Postvention group counselling includes procedures to alleviate the stress and mourning associated with a suicide and promotes a healthy recovery for the bereaved Counsellors can help people to accept the suicide, move on with life in a positive manner, and develop a way to cope with their loss by establishing a survivors' group. For specific information about starting such a group, counsellors should consult: Preventing suicide: how to start a survivors' group.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "alcohol dependency, family history):",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "PROVIDING HELPFUL INFORMATION TO THE COMMUNITY",
+        "alcohol dependency, family history):"
+      ],
+      "chunk_index": 6,
+      "total_chunks": 7
+    },
+    "doc_id": "who_preventing_suicide.md_alcohol dependency, family history):_6"
+  },
+  {
+    "content": "Assistance can be obtained online (last accessed in April 2006) at: The International Association for Suicide Prevention The Australian Network for Promotion, Prevention and Early Intervention for Mental Health http Ilauseinet flinders edu aul The International Academy for Suicide Research http:IIwwW uni- wuerzburg de/IASRL The Suicide and Mental Health Association International http:IIwww suicideandmentalhealthassociationinternational orgl Befrienders International http Iwww befrienders orgt",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "WEB LINKS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "WEB LINKS"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_WEB LINKS_0"
+  },
+  {
+    "content": "International Federation of Telephone Emergency Services http IIwww ifotes orgl LifeLine International http IIwww lifeline web zal The Suicide Prevention Action Network http:IIwww spanusa org http IIwww infosuicide org (in French)",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "WEB LINKS",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "References",
+        "WEB LINKS"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 2
+    },
+    "doc_id": "who_preventing_suicide.md_WEB LINKS_1"
+  },
+  {
+    "content": "Popenhagen MP, Qualley RM. Adolescent suicide. Detection, intervention; and prevention. Professional school counseling, 1998, 1: 30-35. Patel V Thara R. Meeting the mental health needs of developing countries: NGO innovations in India. New Delhi: Sage, 2003. 3_ Westefeld JS, Range LM, Rogers JR. Maples MR, Bromley JL; Alcorn J. Suicide: An overview. The counseling psychologist, 2000, 28: 445-510. Rogers, JR. Suicide risk assessment. In: ER Welfel & RE Ingersoll (eds:).",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "REFERENCES",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "REFERENCES"
+      ],
+      "chunk_index": 0,
+      "total_chunks": 6
+    },
+    "doc_id": "who_preventing_suicide.md_REFERENCES_0"
+  },
+  {
+    "content": "The mental health desk reference. New York: 2001, 259-264. 5_ Collins BG, Collins TM. Crisis and trauma: Developmental- ecological intervention. Boston: Houghton Mifflin, 2005. 6_ Sanchez HGT. Risk factor model for suicide assessment and intervention: Professional Psychology: Research and Practice, 2001, 32: 351-358. Shaffer D, Craft L_ Methods of adolescent suicide prevention: Journal of Clinical Psychiatry, 1999, 60 (Suppl. 2): 70-74. Blumenthal S.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "REFERENCES",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "REFERENCES"
+      ],
+      "chunk_index": 1,
+      "total_chunks": 6
+    },
+    "doc_id": "who_preventing_suicide.md_REFERENCES_1"
+  },
+  {
+    "content": "Youth suicide: Risk factors, assessment, and treatment of adolescent and young adult suicide patients. Psychiatric Clinics of North America, 1990, 12: 511-556. Wiley;",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "REFERENCES",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "REFERENCES"
+      ],
+      "chunk_index": 2,
+      "total_chunks": 6
+    },
+    "doc_id": "who_preventing_suicide.md_REFERENCES_2"
+  },
+  {
+    "content": "9_ Capuzzi D_ Gross D. \"Idon't want to live:' The adolescent at risk for suicidal behaviour. In D. Capuzzi & D. Gross (eds:). Youth at risk: A prevention resource for counsellors, teachers and parents. Alexandria, VA: American Counseling Association, 2000, 3rd edition, 319-352. 10. Stoelb M, Chiriboga J. A process model for assessing adolescent risk of suicide. Journal of Adolescence, 1998, 21: 359-370. 11. Pfeffer CR.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "REFERENCES",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "REFERENCES"
+      ],
+      "chunk_index": 3,
+      "total_chunks": 6
+    },
+    "doc_id": "who_preventing_suicide.md_REFERENCES_3"
+  },
+  {
+    "content": "Clinical perspectives on treatment of suicidal behavior among children and adolescents. Psychiatric Annals, 1990, 20: 143-150. 12. Centers for Disease Control. CDC Recommendations for a community plan for prevention and containment of suicide clusters: Morbidity and mortality weekly report; 1994, 37 (Suppl. 6):1-12. 13. World Health Organization. Preventing suicide: A resource for media professionals. Geneva: World Health Organization, 2000. 14.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "REFERENCES",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "REFERENCES"
+      ],
+      "chunk_index": 4,
+      "total_chunks": 6
+    },
+    "doc_id": "who_preventing_suicide.md_REFERENCES_4"
+  },
+  {
+    "content": "World Health Organization: Preventing suicide: how to start a survivors' group. Geneva: World Health Organization, 2000.",
+    "metadata": {
+      "source": "who_preventing_suicide.md",
+      "source_type": "who_guideline",
+      "title": "REFERENCES",
+      "heading_path": [
+        "WHO Preventing Suicide: A Resource for Counsellors",
+        "REFERENCES"
+      ],
+      "chunk_index": 5,
+      "total_chunks": 6
+    },
+    "doc_id": "who_preventing_suicide.md_REFERENCES_5"
+  }
+]

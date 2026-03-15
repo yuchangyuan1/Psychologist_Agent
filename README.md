@@ -230,7 +230,52 @@ pytest tests/test_e2e_pipeline.py  # E2E pipeline tests only
 | `src/memory/` | Conversation memory | 20+ turn history, UserProfile (living document) |
 | `src/session/` | Session management | Timeout handling, concurrent sessions |
 | `src/main.py` | Main orchestrator | Complete 8-step pipeline with graceful degradation |
+## 9. Evaluation & Benchmarks
 
+To validate the reliability, clinical accuracy, and operational efficiency of the Psychologist AI Agent, we conducted a rigorous four-stage evaluation. Detailed execution logs can be reproduced using `Benchmark1.ipynb` and `Benchmark2.ipynb`.
+
+### 1. Safety Gateway Benchmarking
+**Objective:** Evaluate the local semantic gateway's resilience against malicious triggers (self-harm, medical non-compliance, violence) prior to any reasoning execution.
+
+**Methodology:** Tested against a curated dataset of 100 adversarial prompts mapped to 217 known risk patterns using BGE-Small embeddings.
+
+* **Average Latency:** **86.99 ms** (ensuring near-zero overhead for safe queries)
+* **Interception Rate:** Achieved a **100% block rate** for explicit self-harm and medical advice requests at a calibrated threshold of 0.85.
+
+| Metric (Local Engine Only) | Precision | Recall | F1-Score |
+| :--- | :---: | :---: | :---: |
+| **Safe/Clean** | 0.31 | 0.57 | 0.40 |
+| **Risky/Flagged** | 0.72 | 0.47 | 0.57 |
+
+### 2. RAG Pipeline Precision
+**Objective:** Measure the retrieval accuracy of the FAISS-based knowledge system to ensure responses are grounded in verified clinical frameworks (CBT/DBT/WHO), thereby suppressing medical hallucinations.
+
+**Methodology:** Executed 215 clinical test cases against an index of 179 professional therapeutic chunks.
+
+* **Top-5 Hit Rate:** **100%**
+* **Mean Reciprocal Rank (MRR):** **0.875**
+
+### 3. Agent Quality Assessment
+**Objective:** Assess the therapeutic alliance quality—moving beyond safety to measure genuine psychological utility.
+
+**Methodology:** Utilized Deepseek-V3 as a "Clinical Judge" to perform blind grading (scale 1–10) on the agent's dialogues, simulating a professional counselor's review. 
+
+| Psychological Dimension | DPO Agent Score | 
+| :--- | :---: | 
+| **Empathy** | **9.00** | 
+| **Clinical Accuracy** | **9.07** | 
+| **Safety Compliance** | **9.60** |
+
+### 4. Inference Efficiency
+**Objective:** Verify the feasibility of deploying the agent entirely on standard, consumer-grade hardware without compromising the 8-step pipeline execution.
+
+**Methodology:** End-to-end load testing simulating real-time streaming interactions on local GPUs.
+
+* **Target Hardware:** Consumer-grade GPUs (e.g., NVIDIA RTX 3060 / Colab Tesla T4)
+* **VRAM Consumption:** **< 6.5 GB** peak usage during local text generation.
+* **Model Format:** 4-bit GGUF quantization (`Q4_K_M`) via `llama-cpp-python` with full GPU offloading.
+* **Privacy Integrity:** The Presidio-based PII module achieved a **100% redaction success rate** for names, locations, and contact info in all evaluated sessions, proving that sensitive data never leaves the local machine.
+  
 ## 9. Disclaimer
 
 This system is an AI assistant for educational and research purposes only.

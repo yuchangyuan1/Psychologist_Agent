@@ -97,7 +97,8 @@ psychologist-agent/
 ├── scripts/                    # Data processing & evaluation scripts
 ├── notebooks/                  # Colab notebooks (Unsloth)
 ├── tests/                      # 10 test files, 215 tests
-└── demo/                       # Gradio web demo
+├── demo/                       # Gradio web demo
+└── Evaluation                  # Model evaluation
 ```
 
 ## 5. Installation & Setup
@@ -132,7 +133,7 @@ pip install llama-cpp-python --no-cache-dir
 ```
 
 **Download GGUF model**:
-- [meta-llama-3.1-8b-instruct.Q4_K_M.gguf](https://drive.google.com/file/d/1PAG7wG-PBuw8FsXIfQ8OPSvZrLxAqhWI/view?usp=drive_link) (4.6 GB) -> place in `models/`
+- [meta-llama-3.1-8b-instruct.Q4_K_M.gguf](https://drive.google.com/file/d/1PAG7wG-PBuw8FsXIfQ8OPSvZrLxAqhWI/view?usp=drive_link) (4.6 GB) -> place in `models/Psychologist_Agent`
 
 ### 5.3 Configuration
 

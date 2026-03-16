@@ -3,7 +3,7 @@
 
 model:
   # Path to the GGUF model file
-  model_path: "models/psychologist-8b-q4_k_m.gguf"
+  model_path: "models/meta-llama-3.1-8b-instruct.Q4_K_M.gguf"
 
   # Context window size (tokens)
   n_ctx: 4096

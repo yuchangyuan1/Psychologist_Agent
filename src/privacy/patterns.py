@@ -89,12 +89,52 @@ class PIIPatterns:
         confidence=0.9
     )
 
-    # Date of Birth patterns
+    # Date of Birth patterns (MM/DD/YYYY)
     DOB = PIIPattern(
         entity_type=PIIEntityType.DATE_OF_BIRTH,
         pattern=r'\b(?:0?[1-9]|1[0-2])[/\-](?:0?[1-9]|[12]\d|3[01])[/\-](?:19|20)\d{2}\b',
         description="Date of birth (MM/DD/YYYY)",
         confidence=0.7
+    )
+
+    # Date of Birth patterns (YYYY-MM-DD / ISO 8601)
+    DOB_ISO = PIIPattern(
+        entity_type=PIIEntityType.DATE_OF_BIRTH,
+        pattern=r'\b(?:19|20)\d{2}[/\-](?:0?[1-9]|1[0-2])[/\-](?:0?[1-9]|[12]\d|3[01])\b',
+        description="Date of birth (YYYY-MM-DD)",
+        confidence=0.7
+    )
+
+    # Date of Birth patterns (DD/MM/YYYY)
+    DOB_EU = PIIPattern(
+        entity_type=PIIEntityType.DATE_OF_BIRTH,
+        pattern=r'\b(?:0?[1-9]|[12]\d|3[01])[/\-](?:0?[1-9]|1[0-2])[/\-](?:19|20)\d{2}\b',
+        description="Date of birth (DD/MM/YYYY)",
+        confidence=0.65
+    )
+
+    # Chinese mobile phone numbers (13x/14x/15x/16x/17x/18x/19x)
+    PHONE_CN = PIIPattern(
+        entity_type=PIIEntityType.PHONE,
+        pattern=r'\b(?:\+?86[-\s]?)?1[3-9]\d{9}\b',
+        description="Chinese mobile phone number",
+        confidence=0.9
+    )
+
+    # International phone numbers (+country_code ...)
+    PHONE_INTL = PIIPattern(
+        entity_type=PIIEntityType.PHONE,
+        pattern=r'\+(?!1\b)[1-9]\d{0,2}[-.\s]?\(?\d{1,4}\)?[-.\s]?\d{1,4}[-.\s]?\d{1,9}\b',
+        description="International phone number",
+        confidence=0.75
+    )
+
+    # URL (may contain personal tokens or usernames)
+    URL = PIIPattern(
+        entity_type=PIIEntityType.IP_ADDRESS,
+        pattern=r'https?://[^\s<>"\']+',
+        description="URL",
+        confidence=0.8
     )
 
     # Medical Record Number (basic pattern)
@@ -105,17 +145,31 @@ class PIIPatterns:
         confidence=0.85
     )
 
+    # Passport number (US format and common international formats)
+    PASSPORT = PIIPattern(
+        entity_type=PIIEntityType.MEDICAL_RECORD,
+        pattern=r'\b[A-Z]{1,2}\d{6,9}\b',
+        description="Passport number",
+        confidence=0.7
+    )
+
     @classmethod
     def get_all_patterns(cls) -> List[PIIPattern]:
         """Get all defined patterns."""
         return [
             cls.EMAIL,
             cls.PHONE_US,
+            cls.PHONE_CN,
+            cls.PHONE_INTL,
             cls.SSN,
             cls.CREDIT_CARD,
             cls.IP_ADDRESS,
+            cls.URL,
             cls.DOB,
-            cls.MEDICAL_RECORD
+            cls.DOB_ISO,
+            cls.DOB_EU,
+            cls.MEDICAL_RECORD,
+            cls.PASSPORT,
         ]
 
     @classmethod

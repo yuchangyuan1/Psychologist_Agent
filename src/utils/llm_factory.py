@@ -29,7 +29,7 @@ class LLMFactory:
             except ImportError:
                 raise ImportError("llama-cpp-python is not installed. Please install it to use LOCAL mode.")
                 
-            model_path = os.getenv("LOCAL_MODEL_PATH", "models/psychologist-8b-q4_k_m.gguf")
+            model_path = os.getenv("LOCAL_MODEL_PATH", "models/meta-llama-3.1-8b-instruct.Q4_K_M.gguf")
             if not os.path.exists(model_path):
                 raise FileNotFoundError(f"GGUF model not found at {model_path}. Please download it from Colab.")
                 

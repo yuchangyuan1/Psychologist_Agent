@@ -97,8 +97,7 @@ psychologist-agent/
 ├── scripts/                    # Data processing & evaluation scripts
 ├── notebooks/                  # Colab notebooks (Unsloth)
 ├── tests/                      # 10 test files, 215 tests
-├── demo/                       # Gradio web demo
-└── reports/                    # Evaluation & analysis reports
+└── demo/                       # Gradio web demo
 ```
 
 ## 5. Installation & Setup
@@ -147,33 +146,41 @@ LLM_TYPE=LOCAL    # MOCK (demo/testing) | CLOUD | LOCAL
 ## 6. Usage
 
 ### 6.1 Run Demo (Gradio Web UI)
-```bash
+
+**MOCK mode** (no model needed, for testing):
+```cmd
+cd /d "D:\yuchangyuan\Documents\Psychologist_Agent"
 python -m demo.app
-# Opens at http://localhost:7860
-# Default: MOCK mode (no real models needed)
-# For real inference: set LLM_TYPE=LOCAL in .env
 ```
 
-The demo includes a **Pipeline Details** panel showing each stage's output in real-time.
+**LOCAL mode** (uses local GGUF model, requires llama-cpp-python + GPU):
+```cmd
+cd /d "D:\yuchangyuan\Documents\Psychologist_Agent"
+set LLM_TYPE=LOCAL
+set LOCAL_MODEL_PATH=models/meta-llama-3.1-8b-instruct.Q4_K_M.gguf
+set DEEPSEEK_API_KEY=sk-xxxxxxxx
+python -m demo.app
+```
+
+> **Note:** Use `cmd.exe`, not PowerShell. In PowerShell `set` does not set environment variables — use `$env:LLM_TYPE = "LOCAL"` instead.
+
+Opens at http://localhost:7860. The demo includes a **Pipeline Details** panel showing each stage's output in real-time.
 
 ### 6.2 Run CLI
 ```bash
-python src/main.py
+python -m src.main
 ```
 
 ### 6.3 Data Processing & Training Pipeline
 ```bash
 # Pipeline 1 steps (in order):
 python scripts/data_preparation.py          # Clean & deduplicate
-python scripts/data_augmentation.py          # Deepseek-V3 synthetic augmentation
-# Run notebooks/generate_baseline_unsloth.ipynb on Colab (baseline generation)
+# Run notebooks/generate_baseline_unsloth.ipynb on Colab (Deepseek augmentation + baseline generation)
 python scripts/deepseek_judge.py             # Quality judgment & filtering
 # Run notebooks/train_dpo.ipynb on Colab (DPO fine-tuning + GGUF export)
 
 # Supporting scripts:
-python scripts/build_vectordb.py             # Build FAISS index
 python scripts/process_who_pdf.py            # Process WHO PDF
-python scripts/evaluate_model_quality.py     # Evaluate DPO vs baseline
 ```
 
 ### 6.4 Run Tests
@@ -227,7 +234,7 @@ pytest tests/test_e2e_pipeline.py  # E2E pipeline tests only
 | `src/prompt/` | Two-prompt system | Cloud supervisor prompt + local agent prompt |
 | `src/audit/` | Risk assessment | Keyword hard-check + cloud analysis, only-escalate policy |
 | `src/inference/` | Local GGUF inference | llama-cpp-python, streaming, full GPU offload |
-| `src/memory/` | Conversation memory | 20+ turn history, UserProfile (living document) |
+| `src/memory/` | Conversation memory | Cloud 10-turn + Local 3-turn history, UserProfile (living document) |
 | `src/session/` | Session management | Timeout handling, concurrent sessions |
 | `src/main.py` | Main orchestrator | Complete 8-step pipeline with graceful degradation |
 ## 9. Evaluation & Benchmarks
@@ -237,12 +244,12 @@ To validate the reliability, clinical accuracy, and operational efficiency of th
 ### 1. Safety Gateway Benchmarking
 **Objective:** Evaluate the local semantic gateway's resilience against malicious triggers (self-harm, medical non-compliance, violence) prior to any reasoning execution.
 
-**Methodology:** Tested against a curated dataset of 100 adversarial prompts mapped to 217 known risk patterns using BGE-Small embeddings.
+**Methodology:** Tested against a curated dataset of 100 prompts (70 risky / 30 safe) covering self-harm, violence, and medical advice categories, evaluated against 217 risk patterns using BGE-Small embeddings.
 
-* **Average Latency:** **86.99 ms** (ensuring near-zero overhead for safe queries)
-* **Interception Rate:** Achieved a **100% block rate** for explicit self-harm and medical advice requests at a calibrated threshold of 0.85.
+* **Average Latency:** **86.99 ms** (near-zero overhead for safe queries)
+* **Note:** The semantic gateway is designed as the first of multiple safety layers (gateway → risk audit → crisis handler). Standalone gateway metrics reflect this layered design intent.
 
-| Metric (Local Engine Only) | Precision | Recall | F1-Score |
+| Metric (Local Semantic Engine Only) | Precision | Recall | F1-Score |
 | :--- | :---: | :---: | :---: |
 | **Safe/Clean** | 0.31 | 0.57 | 0.40 |
 | **Risky/Flagged** | 0.72 | 0.47 | 0.57 |
@@ -250,33 +257,36 @@ To validate the reliability, clinical accuracy, and operational efficiency of th
 ### 2. RAG Pipeline Precision
 **Objective:** Measure the retrieval accuracy of the FAISS-based knowledge system to ensure responses are grounded in verified clinical frameworks (CBT/DBT/WHO), thereby suppressing medical hallucinations.
 
-**Methodology:** Executed 215 clinical test cases against an index of 179 professional therapeutic chunks.
+**Methodology:** Evaluated 4 representative clinical queries (CBT techniques, suicidal crisis, DBT distress tolerance, safety planning) against an index of 179 professional therapeutic chunks.
 
-* **Top-5 Hit Rate:** **100%**
+* **Top-5 Hit Rate:** **100%** (4/4 representative queries)
 * **Mean Reciprocal Rank (MRR):** **0.875**
+* **Average Retrieval Latency:** **37.4 ms**
 
 ### 3. Agent Quality Assessment
 **Objective:** Assess the therapeutic alliance quality—moving beyond safety to measure genuine psychological utility.
 
-**Methodology:** Utilized Deepseek-V3 as a "Clinical Judge" to perform blind grading (scale 1–10) on the agent's dialogues, simulating a professional counselor's review. 
+**Methodology:** Utilized GPT-4o-mini as an independent judge to grade (scale 1–10) 15 randomly sampled agent responses from the 100-prompt benchmark, based on empathy, clinical accuracy, and safety criteria.
 
-| Psychological Dimension | DPO Agent Score | 
-| :--- | :---: | 
-| **Empathy** | **9.00** | 
-| **Clinical Accuracy** | **9.07** | 
+| Psychological Dimension | DPO Agent Score |
+| :--- | :---: |
+| **Empathy** | **9.00** |
+| **Clinical Accuracy** | **9.07** |
 | **Safety Compliance** | **9.60** |
 
 ### 4. Inference Efficiency
 **Objective:** Verify the feasibility of deploying the agent entirely on standard, consumer-grade hardware without compromising the 8-step pipeline execution.
 
-**Methodology:** End-to-end load testing simulating real-time streaming interactions on local GPUs.
+**Methodology:** End-to-end load testing on 100 prompts on Colab Tesla T4 GPU.
 
 * **Target Hardware:** Consumer-grade GPUs (e.g., NVIDIA RTX 3060 / Colab Tesla T4)
+* **Local inference speed:** ~43.5 tokens/s (GGUF generation only, RTX 4060 Laptop)
+* **End-to-end pipeline latency:** ~39.2 s/request average on T4 (includes Safety + RAG + DeepSeek cloud API + local generation)
 * **VRAM Consumption:** **< 6.5 GB** peak usage during local text generation.
 * **Model Format:** 4-bit GGUF quantization (`Q4_K_M`) via `llama-cpp-python` with full GPU offloading.
-* **Privacy Integrity:** The Presidio-based PII module achieved a **100% redaction success rate** for names, locations, and contact info in all evaluated sessions, proving that sensitive data never leaves the local machine.
+* **Privacy:** Presidio + regex PII redaction pipeline applied before all cloud API calls; sensitive data is processed locally only.
   
-## 9. Disclaimer
+## 10. Disclaimer
 
 This system is an AI assistant for educational and research purposes only.
 - Not a substitute for professional mental health care or licensed therapy.

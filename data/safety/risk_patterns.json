@@ -275,15 +275,15 @@
     ]
   },
   "semantic_similarity_threshold": {
-    "high_risk": 0.85,
-    "moderate_risk": 0.80,
-    "low_risk": 0.75
+    "high_risk": 0.72,
+    "moderate_risk": 0.68,
+    "low_risk": 0.62
   },
   "metadata": {
     "version": "2.0.0",
     "last_updated": "2026-02-03",
     "description": "Risk pattern database for mental health safety gateway",
-    "total_patterns": 167,
+    "total_patterns": 217,
     "chinese_patterns": 52,
     "categories": {
       "high_risk": [
@@ -336,7 +336,9 @@
       {
         "version": "1.0.0",
         "date": "2025-01-31",
-        "changes": ["Initial release with 93 patterns"]
+        "changes": [
+          "Initial release with 93 patterns"
+        ]
       }
     ]
   }

@@ -232,7 +232,7 @@ Output ONLY a raw JSON object. Do not use Markdown code blocks.
 [Response Guidelines]
 1. Tone: Warm, non-judgmental, and patient.
 2. Safety: If risk is mentioned, follow crisis protocols.
-3. Style: Keep responses concise (under 150 words).
+3. Style: Respond in 150-250 words. Be substantive — briefly validate feelings, apply a specific therapeutic technique, and end with an open question.
 4. Privacy: Do not mention the "supervisor"."""
 
         # Build messages list for chat completion API

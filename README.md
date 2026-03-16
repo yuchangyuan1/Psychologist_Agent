@@ -224,7 +224,7 @@ pytest tests/test_e2e_pipeline.py  # E2E pipeline tests only
 | RAG knowledge chunks | 179 chunks (FAISS index, 269KB) |
 | Test coverage | 215 tests across 10 test files |
 
-## 8. Module Overview
+## 7. Module Overview
 
 | Module | Purpose | Key Features |
 |--------|---------|-------------|
@@ -238,44 +238,8 @@ pytest tests/test_e2e_pipeline.py  # E2E pipeline tests only
 | `src/memory/` | Conversation memory | Cloud 10-turn + Local 3-turn history, UserProfile (living document) |
 | `src/session/` | Session management | Timeout handling, concurrent sessions |
 | `src/main.py` | Main orchestrator | Complete 8-step pipeline with graceful degradation |
-## 9. Evaluation & Benchmarks
 
-To validate the reliability, clinical accuracy, and operational efficiency of the Psychologist AI Agent, we conducted a rigorous four-stage evaluation. Detailed execution logs can be reproduced using `Benchmark1.ipynb` and `Benchmark2.ipynb`.
-
-### 1. Safety Gateway Benchmarking
-**Objective:** Evaluate the local semantic gateway's resilience against malicious triggers (self-harm, medical non-compliance, violence) prior to any reasoning execution.
-
-**Methodology:** Tested against a curated dataset of 100 prompts (70 risky / 30 safe) covering self-harm, violence, and medical advice categories. The gateway uses a two-stage approach: fast keyword hard-check (O(n) string matching) followed by BGE-Small semantic similarity against 217 risk patterns.
-
-* **Average Latency:** **11.26 ms** | **P95 Latency:** 20.74 ms
-* **Design Note:** The gateway is intentionally tuned for **zero missed detections** (Recall 1.00 on risky content) — in a mental health context, failing to catch a crisis signal is far more costly than a false positive. Legitimate safe inputs that are flagged are handled gracefully by downstream pipeline stages.
-
-| Metric (Local Semantic Engine Only) | Precision | Recall | F1-Score |
-| :--- | :---: | :---: | :---: |
-| **Safe/Clean** | 1.00 | 0.20 | 0.33 |
-| **Risky/Flagged** | 0.74 | 1.00 | 0.85 |
-
-### 2. RAG Pipeline Precision
-**Objective:** Measure the retrieval accuracy of the FAISS-based knowledge system to ensure responses are grounded in verified clinical frameworks (CBT/DBT/WHO), thereby suppressing medical hallucinations.
-
-**Methodology:** Evaluated 4 representative clinical queries (CBT techniques, suicidal crisis, DBT distress tolerance, safety planning) against an index of 179 professional therapeutic chunks.
-
-* **Top-5 Hit Rate:** **100%** (4/4 representative queries)
-* **Mean Reciprocal Rank (MRR):** **0.875**
-* **Average Retrieval Latency:** **19.0 ms**
-
-### 3. Agent Quality Assessment
-**Objective:** Assess the therapeutic response quality using an independent AI judge.
-
-**Methodology:** Utilized GPT-4o-mini as an independent judge to grade (scale 1–10) 15 randomly sampled agent responses from the 100-prompt benchmark. The benchmark dataset consists of 70 risky prompts (self-harm, violence, medical) and 30 safe prompts; many responses are crisis interventions rather than standard counseling exchanges, which affects the empathy/accuracy scores compared to a pure counseling context.
-
-| Psychological Dimension | DPO Agent Score |
-| :--- | :---: |
-| **Empathy** | **9.00** |
-| **Clinical Accuracy** | **9.07** |
-| **Safety Compliance** | **9.60** |
-
-### 4. Inference Efficiency
+### 8. Inference Efficiency
 **Objective:** Verify the feasibility of deploying the agent entirely on standard, consumer-grade hardware without compromising the 8-step pipeline execution.
 
 **Methodology:** End-to-end load testing on 100 prompts on Colab A100 GPU.
@@ -287,7 +251,7 @@ To validate the reliability, clinical accuracy, and operational efficiency of th
 * **Model Format:** 4-bit GGUF quantization (`Q4_K_M`) via `llama-cpp-python` with full GPU offloading.
 * **Privacy:** Presidio + regex PII redaction pipeline applied before all cloud API calls; sensitive data is processed locally only.
   
-## 10. Disclaimer
+## 9. Disclaimer
 
 This system is an AI assistant for educational and research purposes only.
 - Not a substitute for professional mental health care or licensed therapy.

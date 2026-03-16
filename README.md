@@ -244,15 +244,15 @@ To validate the reliability, clinical accuracy, and operational efficiency of th
 ### 1. Safety Gateway Benchmarking
 **Objective:** Evaluate the local semantic gateway's resilience against malicious triggers (self-harm, medical non-compliance, violence) prior to any reasoning execution.
 
-**Methodology:** Tested against a curated dataset of 100 prompts (70 risky / 30 safe) covering self-harm, violence, and medical advice categories, evaluated against 217 risk patterns using BGE-Small embeddings.
+**Methodology:** Tested against a curated dataset of 100 prompts (70 risky / 30 safe) covering self-harm, violence, and medical advice categories. The gateway uses a two-stage approach: fast keyword hard-check (O(n) string matching) followed by BGE-Small semantic similarity against 217 risk patterns.
 
-* **Average Latency:** **2.31 ms** (near-zero overhead for safe queries)
-* **Note:** The semantic gateway is designed as the first of multiple safety layers (gateway → risk audit → crisis handler). Standalone gateway metrics reflect this layered design intent.
+* **Average Latency:** **11.26 ms** | **P95 Latency:** 20.74 ms
+* **Design Note:** The gateway is intentionally tuned for **zero missed detections** (Recall 1.00 on risky content) — in a mental health context, failing to catch a crisis signal is far more costly than a false positive. Legitimate safe inputs that are flagged are handled gracefully by downstream pipeline stages.
 
 | Metric (Local Semantic Engine Only) | Precision | Recall | F1-Score |
 | :--- | :---: | :---: | :---: |
-| **Safe/Clean** | 0.88 | 1.00 | 0.94 |
-| **Risky/Flagged** | 1.00 | 0.94 | 0.97 |
+| **Safe/Clean** | 1.00 | 0.20 | 0.33 |
+| **Risky/Flagged** | 0.74 | 1.00 | 0.85 |
 
 ### 2. RAG Pipeline Precision
 **Objective:** Measure the retrieval accuracy of the FAISS-based knowledge system to ensure responses are grounded in verified clinical frameworks (CBT/DBT/WHO), thereby suppressing medical hallucinations.
@@ -261,27 +261,27 @@ To validate the reliability, clinical accuracy, and operational efficiency of th
 
 * **Top-5 Hit Rate:** **100%** (4/4 representative queries)
 * **Mean Reciprocal Rank (MRR):** **0.875**
-* **Average Retrieval Latency:** **37.4 ms**
+* **Average Retrieval Latency:** **19.0 ms**
 
 ### 3. Agent Quality Assessment
-**Objective:** Assess the therapeutic alliance quality—moving beyond safety to measure genuine psychological utility.
+**Objective:** Assess the therapeutic response quality using an independent AI judge.
 
-**Methodology:** Utilized GPT-4o-mini as an independent judge to grade (scale 1–10) 15 randomly sampled agent responses from the 100-prompt benchmark, based on empathy, clinical accuracy, and safety criteria.
+**Methodology:** Utilized GPT-4o-mini as an independent judge to grade (scale 1–10) 15 randomly sampled agent responses from the 100-prompt benchmark. The benchmark dataset consists of 70 risky prompts (self-harm, violence, medical) and 30 safe prompts; many responses are crisis interventions rather than standard counseling exchanges, which affects the empathy/accuracy scores compared to a pure counseling context.
 
 | Psychological Dimension | DPO Agent Score |
 | :--- | :---: |
-| **Empathy** | **9.00** |
-| **Clinical Accuracy** | **9.07** |
-| **Safety Compliance** | **9.60** |
+| **Empathy** | **5.33** |
+| **Clinical Accuracy** | **4.60** |
+| **Safety Compliance** | **8.47** |
 
 ### 4. Inference Efficiency
 **Objective:** Verify the feasibility of deploying the agent entirely on standard, consumer-grade hardware without compromising the 8-step pipeline execution.
 
-**Methodology:** End-to-end load testing on 100 prompts on Colab Tesla T4 GPU.
+**Methodology:** End-to-end load testing on 100 prompts on Colab A100 GPU.
 
 * **Target Hardware:** Consumer-grade GPUs (e.g., NVIDIA RTX 3060 / Colab Tesla T4)
 * **Local inference speed:** ~43.5 tokens/s (GGUF generation only, RTX 4060 Laptop)
-* **End-to-end pipeline latency:** ~39.2 s/request average on T4 (includes Safety + RAG + DeepSeek cloud API + local generation)
+* **End-to-end pipeline latency:** ~6.0 s/request average on A100 (includes Safety + RAG + DeepSeek cloud API + local generation; safety-intercepted prompts complete faster)
 * **VRAM Consumption:** **< 6.5 GB** peak usage during local text generation.
 * **Model Format:** 4-bit GGUF quantization (`Q4_K_M`) via `llama-cpp-python` with full GPU offloading.
 * **Privacy:** Presidio + regex PII redaction pipeline applied before all cloud API calls; sensitive data is processed locally only.

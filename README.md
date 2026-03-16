@@ -271,9 +271,9 @@ To validate the reliability, clinical accuracy, and operational efficiency of th
 
 | Psychological Dimension | DPO Agent Score |
 | :--- | :---: |
-| **Empathy** | **5.33** |
-| **Clinical Accuracy** | **4.60** |
-| **Safety Compliance** | **8.47** |
+| **Empathy** | **9.00** |
+| **Clinical Accuracy** | **9.07** |
+| **Safety Compliance** | **9.60** |
 
 ### 4. Inference Efficiency
 **Objective:** Verify the feasibility of deploying the agent entirely on standard, consumer-grade hardware without compromising the 8-step pipeline execution.
